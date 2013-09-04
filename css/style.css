@@ -1,0 +1,271 @@
+
+.container {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+img {
+  max-width: 100%;
+}
+body {
+  background: #fff;
+  padding-bottom: 40px;
+  font-family: Helvetica, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Helvetica', sans-serif;
+  color: #333;
+}
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  line-height: 48px;
+  margin-bottom: 8px;
+  /*font-variant: small-caps;*/
+  letter-spacing: 3px;
+  color: #333;
+  }
+
+h3 {
+  font-family: Arial, sans-serif, Verdana;
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 25px;
+  margin-bottom: 8px;
+  /*font-variant: small-caps;*/
+  letter-spacing: 0px;
+  font-style: italic;
+  color: #333;
+  }
+
+
+h4 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  margin-bottom: 8px;
+  /*font-variant: small-caps;*/
+  letter-spacing: 0px;
+  color: #333;
+  }
+
+
+p {
+  font-family: Arial, sans-serif, Verdana;
+  font-size: 22px;
+  line-height: 40px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+li {
+  font-family: Arial, sans-serif, Verdana;
+  font-size: 21px;
+  line-height: 40px;
+  margin-top: 15px;
+  margin-left: 25px;
+
+}
+
+.titulo{
+  font-family: Helvetica, trebuchet, sans-serif;
+  font-size: 60px;
+  line-height: 48px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /*font-variant: small-caps;*/
+  letter-spacing: 0px;
+  color: #ff6600;
+}
+
+.tagline{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 52px;
+  line-height: 65px;
+  margin-bottom: 10px;
+  /*font-variant: small-caps;*/
+  color: #666;
+}
+
+
+li li {
+  font-family: Georgia, serif, Verdana;
+  font-size: 21px;
+  line-height: 40px;
+  margin-top: 15px;
+  margin-left: 40px;
+
+
+}
+pre {
+  margin-bottom: 1em;
+}
+blockquote {
+  font-family: Helvetica, sans-serif, Verdana;
+  font-weight: 400;
+}
+table tfoot th,
+table tbody th {
+  border-top: 1px solid #353534;
+}
+footer {
+  padding-bottom: 30px;
+}
+.row-fluid > .span-fixed-sidebar {
+  margin-left: 290px;
+}
+a,
+a:link {
+  color: #ff6633;
+  text-decoration: none;
+  /*font-weight: bold;*/
+}
+
+a,
+a a:visited {
+  color: #ff6633;
+  text-decoration: underline; 
+  outline: 0;
+}
+
+a, 
+p,
+a:hover {
+  color: #000;
+}
+
+a,
+a:focus {
+  color: #ff6633;
+}
+
+a, 
+a: active{
+  color: #000;
+}
+
+.stream p:first-child {
+  font-size: 2em;
+}
+.centered {
+  margin-bottom: 3em;
+  padding-top: 5em;
+  text-align: center;
+}
+.container-main {
+  padding-top: 60px;
+}
+.date {
+  color: #666;
+}
+.status {
+  color: #666;
+}
+.mark {
+  font-family: Helvetica, sans-serif, Verdana;
+  font-weight: 400;
+  font-size: 1.1em;
+  background-color: #ffeaaf;
+  margin-bottom: 0.5em;
+  padding: 0.5em;
+}
+.profile {
+  padding: 4px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 3px #ddd;
+}
+.navbar {
+  background: #313131;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  box-shadow: 1px 3px 3px #ddd;
+
+
+}
+  
+.navbar-top {
+  top: 0;
+  border-bottom: 1px solid #272727;
+}
+.navbar-bottom {
+  bottom: 0;
+  border-top: 1px solid #272727;
+}
+.navbar p,
+.navbar li {
+  font-size: 23px;
+  line-height: 26px;
+  margin: 0;
+  padding: 0;
+}
+.navbar li {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.navbar a {
+  font-family: Helvetica, sans-serif, Verdana;
+  font-size: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #e0e0e0;
+  /*font-weight: 400;*/
+}
+.navbar a:hover {
+  color: #f5f5f5;
+}
+
+
+
+/*navbar2*/
+
+.navbar2 {
+  background: #ccc;
+  width: 100%;
+  position: relative;
+  z-index: 1000;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  box-shadow: 1px 3px 3px #ddd;
+  }
+
+.navbar2-top {
+  top: 0;
+  border-bottom: 1px solid #272727;
+}
+.navbar2-bottom {
+  top: 0;
+  bottom: 0px;
+  border-top: 0px solid #272727;
+}
+
+.navbar2 p,
+.navbar2 li {
+  font-size: 23px;
+  line-height: 26px;
+  margin: 0;
+  padding: 0;
+}
+.navbar2 li {
+  float: left;
+  padding-left: 20px;
+  padding-right: 30px;
+}
+.navbar2 a {
+  font-family: Helvetica, sans-serif, Verdana;
+  font-size: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #333;
+  /*font-weight: 400;*/
+}
+.navbar2 a:hover {
+  color: #666;
+}
