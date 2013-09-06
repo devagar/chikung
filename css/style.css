@@ -22,24 +22,35 @@ h6 {
 }
 h1 {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 35px;
   line-height: 48px;
   margin-bottom: 8px;
   /*font-variant: small-caps;*/
   letter-spacing: 3px;
   color: #333;
   }
+/* Tutulo Post*/
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  line-height: 48px;
+  margin-bottom: 8px;
+  /*font-variant: small-caps;*/
+  letter-spacing: 0px;
+  color: #ff6600;
+  }
 
+/*titulos*/
 h3 {
   font-family: Arial, sans-serif, Verdana;
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 28px;
+  line-height: 35px;
   margin-top: 25px;
   margin-bottom: 8px;
   /*font-variant: small-caps;*/
   letter-spacing: 0px;
-  font-style: italic;
-  color: #333;
+  /*font-style: italic;*/
+  color: #666;
   }
 
 
@@ -50,17 +61,52 @@ h4 {
   margin-bottom: 8px;
   /*font-variant: small-caps;*/
   letter-spacing: 0px;
-  color: #333;
+  color: #ff6600;
   }
 
 
 p {
-  font-family: Arial, sans-serif, Verdana;
-  font-size: 22px;
-  line-height: 40px;
-  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 37px;
+  margin-top: 5px;
   margin-bottom: 15px;
 }
+
+span.s1, span.s2 {font:  Helvetica;
+                    font-size: 35.0px;
+                    line-height: 40px;
+                    margin-top: 20px;
+                    letter-spacing: 0.0px;
+                    color: #ff6600
+                  }
+
+span.s3, span.s4, span.s5 {font:  Helvetica;
+                    font-size: 35.0px;
+                    line-height: 40px;
+                    margin-top: 15px;
+                    letter-spacing: 0.0px;
+                    color: #666
+                  }
+
+
+
+    p1 {font: Helvetica;
+              font-size:  40.0px;
+              font-weight: bold;
+              letter-spacing: 0.0px;
+              line-height: 40px;
+              margin-top: 15px;
+              color: #666;
+            }
+    
+
+/*
+    span.s2 {font: 21.0px Helvetica; letter-spacing: 0.0px color: #ff5a00}
+    span.s3 {font: 21.0px Helvetica; letter-spacing: 0.0px color: #000000}
+    span.s4 {font: 26.0px Helvetica; letter-spacing: 0.0px color: #000000}
+    span.s5 {letter-spacing: 0.0px}
+*/
 
 li {
   font-family: Arial, sans-serif, Verdana;
@@ -120,14 +166,14 @@ footer {
 }
 a,
 a:link {
-  color: #ff6633;
+  color: #ff6600;
   text-decoration: none;
   /*font-weight: bold;*/
 }
 
 a,
 a a:visited {
-  color: #ff6633;
+  color: #ff6600;
   text-decoration: underline; 
   outline: 0;
 }
@@ -140,7 +186,7 @@ a:hover {
 
 a,
 a:focus {
-  color: #ff6633;
+  color: #ff6600;
 }
 
 a, 
@@ -183,8 +229,8 @@ a: active{
   width: 100%;
   position: fixed;
   z-index: 1000;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   box-shadow: 1px 3px 3px #ddd;
 
 
@@ -212,7 +258,7 @@ a: active{
 }
 .navbar a {
   font-family: Helvetica, sans-serif, Verdana;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 20px;
   text-decoration: none;
   color: #e0e0e0;
@@ -263,9 +309,9 @@ a: active{
   font-size: 20px;
   line-height: 20px;
   text-decoration: none;
-  color: #333;
+  color: #666;
   /*font-weight: 400;*/
 }
 .navbar2 a:hover {
-  color: #666;
+  color: #000;
 }
