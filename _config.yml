@@ -1,0 +1,9 @@
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
+name: Zhan Zhuang
+description: A Arte do Cultivo da Quietude
+url: http://devagar.org
