@@ -7,7 +7,6 @@ exclude:     []
 name: Zhan Zhuang
 description: A Arte do Cultivo da Quietude
 url: http://chikung.in
-
 safe: true
 lsi: false
 pygments: true
