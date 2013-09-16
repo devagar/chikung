@@ -26,9 +26,9 @@ O material a ser apresentado é baseado nos clássicos da Medicina Tradicional C
 
 Tal como nas aulas regulares existem dois programas disponíveis. 
 
-<p  align="center"><img src="/files/p1.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
+<p  align="center"><img src="/files/pa1.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
 
-<p  align="center"><img src="/files/p2.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
+<p  align="center"><img src="/files/pa2.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
 
 Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado dois blocos de aulas regulares e que tenham criado uma rotina de treino consistente. 
 
