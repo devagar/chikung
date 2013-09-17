@@ -7,7 +7,7 @@ title: aulas
 
 - As aulas lecionadas são apresentadas sobre formas de cursos que têm a duração de 10 a 12 semanas. O próximo curso tem início dia 1 de Outubro e termina a 19 de Dezembro.
 
-- Consulte aqui os programas de Chi Kung para as [aulas regulares](/regulares.html), [avançadas](/avancadas.html) e Chi Kung Feminino.
+- Consulte aqui os programas de Chi Kung para as [aulas regulares](/regulares.html), [avançadas](/avancadas.html).
 
 ### Horário Terças 
 
@@ -33,8 +33,8 @@ title: aulas
 
 ## Valores e programa de estudos de Outono
 
-- Para valores e programa das aulas regulares por favor [siga a ligação](/regulares.html#valores).
+- Para valores e programa das aulas regulares por favor [siga a ligação](/regulares.html).
 
-- Para valores e programa das aulas avançadas por favor [siga a ligação](/avancadas.html#valores).
+- Para valores e programa das aulas avançadas por favor [siga a ligação](/avancadas.html).
 
 <p align="center"><img src="/files/aulack.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
