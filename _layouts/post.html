@@ -6,6 +6,11 @@ layout: default
       <h2>{{ page.title }}</h2>
       {{ content }}
    </article>
+ 
+ <div class="share42init">
+<script type="text/javascript" src="/files/share42/share42.js"></script> 
+</div>
+
     <div id="paginator">
                <h4> {% if page.previous %}
                   <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior :</a>
@@ -21,7 +26,7 @@ layout: default
 
         <font face = "Helvetica">
         <ul>  
-          <li> <a href="{{ base.url }}/subscrever.html">> Subscrever</a></li>
+          <li> <a href="{{ base.url }}/subscrever.html">> Subscrever artigos</a></li>
         </font>
         </ul>
    

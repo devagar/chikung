@@ -71,7 +71,7 @@ p {
   font-size: 20px;
   line-height: 35px;
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 span.s1, span.s2 {font:  Helvetica;
@@ -316,3 +316,11 @@ a: active{
 .navbar2 a:hover {
   color: #000;
 }
+
+/** style button**/
+
+#share42 {display: inline-block; padding: 6px 0 10px 0px; background: #FFF; border: 0px solid #E9E9E9; border-radius: 0px; line-height: 10px; }
+#share42:hover {background: #FFF; border: 0px solid #FFF; box-shadow: 0 0 0px #DDD;}
+#share42 a {opacity: 1}
+#share42:hover a {opacity: 1}
+#share42 a:hover {opacity: 0.5}

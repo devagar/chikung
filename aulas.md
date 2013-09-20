@@ -21,7 +21,7 @@ title: aulas
 
 - Self Healing Space (Av. Roma) 
 
-- Das 12:30 às 13:45 - Bloco de 12 aulas CHi Kung Feminino (Sílvia Romão)
+- Das 12:30 às 13:45 - Bloco de 12 aulas CHi Kung Feminino [Sílvia Romão](http://chegar.org/quem/)
 
 ### Quintas 
 
