@@ -20,38 +20,21 @@
 
 /* #Base 960 Grid
 ================================================== */
-
-#column-1{
-    position:fixed;
-    width: 23%; 
-    top: 14%;
-    left: 10%;
     
-   
-}
-
-#column-2{ 
-    position: relative;  
-    width: 50%;
-    margin-left: 37%; 
-    margin-top: 7.4%;
-}
-
-    
-/*menu*/
+/*menu
 
     .container0                                  { position: relative; width: 960px; margin: 0 auto; padding: 0;}
     .container0 .column,
     .container0 .columns                         { float: left; display: inline; margin-left: 175px; margin-right: 10px; }
     .row0                                        { margin-bottom: 20px; }
-
+*/
                                        
 /*corpo*/
 
     .container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
     .container .column,
-    .container .columns                         { float: left; display: inline; margin-left: 10px; margin-right: 10px; margin-top: 10px; }
-    .row                                        { margin-bottom: 20px; }
+    .container .columns                  { float: left; display: inline; margin-left: 10px; margin-right: 10px; margin-top: 0px; margin-bottom: 5px; }
+    .row                                           { margin-bottom: 20px; }
 
 
     /* Nested Column Classes */
