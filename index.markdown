@@ -17,7 +17,17 @@ As vagas são limitadas. Para confirmar a sua presença por favor <a href="mailt
 
 As aulas seguem o modelo do ano passado e são distribuídas por blocos ou cursos. [O próximo](/regulares.html) inicia-se a 3 de Outubro e termina a 21 de Dezembro num total de 12 aulas (Condições especiais de inscrição até dia 26 de Setembro).
 
-###Ultimos artigos
+### Quem?
+
+<p><img src="/files/foto.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
+
+Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que possamos ensinar e sistemas que possamos representar o mais importante é ensinar a integrar a prática no dia a dia. Em cada momento e atividade somos o reflexo dessa prática. 
+
+Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de ensino, eventos corporativos e aulas particulares. 
+
+Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. [O meu curriculum detalhado](/files/cv2013.pdf)
+
+###Ultimos que publiquei
 
 <div class="hfeed">
 	<article class="hentry entry">
@@ -32,12 +42,3 @@ As aulas seguem o modelo do ano passado e são distribuídas por blocos ou curso
 
 [Mais artigos](http://devagar.org/blog.html) 
 
-### Quem?
-
-<p><img src="/files/foto.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
-
-Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que possamos ensinar e sistemas que possamos representar o mais importante é ensinar a integrar a prática no dia a dia. Em cada momento e atividade somos o reflexo dessa prática. 
-
-Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de ensino, eventos corporativos e aulas particulares. 
-
-Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. [O meu curriculum detalhado](/files/cv2013.pdf)
