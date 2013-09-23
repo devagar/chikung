@@ -67,8 +67,7 @@
 
     .container .offset-by-one                   { padding-left: 30px;  }
     .container .offset-by-two                   { padding-left: 120px; }
-    /* anterior 180*/
-    .container .offset-by-three                 { padding-left: 165px; }
+    .container .offset-by-three                 { padding-left: 180px; }
     .container .offset-by-four                  { padding-left: 240px; }
     .container .offset-by-five                  { padding-left: 300px; }
     .container .offset-by-six                   { padding-left: 360px; }
