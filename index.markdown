@@ -8,7 +8,7 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-[A aulas](http://devagar.org/aulas.html) vão ter início na primeira semana de Outubro.
+[As aulas](http://devagar.org/aulas.html) vão ter início na primeira semana de Outubro.
 
 Antes disso vão realizar-se aulas abertas no Instituto Macrobiótico de Portugal Quinta-feira dia 26 de Setembro em dois horários 12:30 às 14:45 ou das 18:45 às 20h.
 As vagas são limitadas. Para confirmar a sua presença por favor <a href="mailto:lourencoazevedo@devagar.org?subject=Confirmar presença dia 26 de Setembro">clique aqui </a> e indique a hora que vai estar presente e dúvidas que tenha sobre esta primeira aula. 
@@ -42,3 +42,4 @@ Escrevo com regularidade neste blog e sou o criador de programas de estudo que s
 
 [Mais artigos](http://devagar.org/blog.html) 
 
+>Como Especialista de Medicina Tradicional Chinesa as aulas que lecciono são exclusivamente terapêuticas e não se encontram abrangidas pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
