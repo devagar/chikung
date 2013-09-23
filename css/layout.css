@@ -59,7 +59,7 @@
         /* Offsets */
         .container .offset-by-one                   { padding-left: 48px; }
         .container .offset-by-two                   { padding-left: 96px; }
-        .container .offset-by-three                 { padding-left: 144px; } /*144*/
+        .container .offset-by-three                 { padding-left: 96px; } /*144*/
         .container .offset-by-four                  { padding-left: 192px; }
         .container .offset-by-five                  { padding-left: 240px; }
         .container .offset-by-six                   { padding-left: 288px; }
