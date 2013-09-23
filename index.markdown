@@ -27,7 +27,7 @@ Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ens
 
 Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. [O meu curriculum detalhado](/files/cv2013.pdf)
 
-###Ultimos que publiquei
+###Ultimos artigos que publiquei
 
 <div class="hfeed">
 	<article class="hentry entry">
