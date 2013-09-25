@@ -50,9 +50,7 @@ Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado doi
 
 **Poderá ainda fazer o pagamento das 12 aulas deste bloco mensalmente**
 
-+ 55 Eur. em Outubro (5 Aulas)
-+ 45 Eur. em Novembro (4 Aulas)
-+ 35 Eur em Dezembro (3 Aulas)
++ No valor de 40 Eur/Mês
 
 O valor das aulas avulso é de 15 Eur. por aula
 
