@@ -8,10 +8,9 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-[As aulas](http://devagar.org/aulas.html) vão ter início na primeira semana de Outubro.
+[Hoje, duas aulas abertas de Chi Kung no Chiado!](http://devagar.org/2013/09/26/hoje-aula.html)
 
-Antes disso vão realizar-se aulas abertas no Instituto Macrobiótico de Portugal Quinta-feira dia 26 de Setembro em dois horários 12:30 às 13:30 ou das 18:45 às 19:45h.
-As vagas são limitadas. Para confirmar a sua presença por favor <a href="mailto:lourencoazevedo@devagar.org?subject=Confirmar presença dia 26 de Setembro">clique aqui </a> e indique a hora que vai estar presente e dúvidas que tenha sobre esta primeira aula. 
+[As aulas](http://devagar.org/aulas.html) vão ter início na primeira semana de Outubro.
 
 ###Programa de estudos 
 
