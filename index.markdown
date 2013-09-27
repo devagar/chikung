@@ -8,13 +8,11 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-[Hoje, duas aulas abertas de Chi Kung no Chiado!](http://devagar.org/2013/09/26/hoje-aula.html)
+O novo programa de aulas de Outono vai ter início dia 3 de Outubro. Ainda existem vagas
+paras ambos os horários. Informações sobre as próximas 12 semanas de treino intensivo
+dedicadas ao fortalecimento e flexibilização dos ombros podem ser encontradas
+[aqui](http://devagar.org/regulares.html).  
 
-[As aulas](http://devagar.org/aulas.html) vão ter início na primeira semana de Outubro.
-
-###Programa de estudos 
-
-As aulas seguem o modelo do ano passado e são distribuídas por blocos ou cursos. [O próximo](/regulares.html) inicia-se a 3 de Outubro e termina a 21 de Dezembro num total de 12 aulas (Condições especiais de inscrição até dia 26 de Setembro).
 
 ### Quem?
 
