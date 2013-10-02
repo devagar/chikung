@@ -38,13 +38,12 @@ Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado doi
 
 **Aulas semanais:**
 
-+ 100 Eur. para inscrições até dia 26 de Setembro.
-+ 120 Eur. depois desta data. 
++ 120 Eur. pelo programa de estudos que inclui as 12 aulas.  
 
 **Aulas semanais com apoio individual:**
 
-+ 175 Eur. para inscrições até dia 26 de Setembro.
-+ 200 Eur. depois desta data.
++ 200 Eur. pelo programa que inclui as 12 aulas mais três aulas
+privadas. 
 
 *A subscrição de um seguro de saúde para a prática de atividades com as características do Chi Kung é da inteira responsabilidade do praticante.*
 

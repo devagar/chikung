@@ -101,19 +101,17 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
 **Aulas semanais:**
 
-+ 100 Eur. para inscrições até dia 26 de Setembro.
-+ 120 Eur. depois desta data. 
++ 120 Eur. pelo programa de 12 aulas. 
 
 **Aulas semanais com apoio individual:**
 
-+ 175 Eur. para inscrições até dia 26 de Setembro.
-+ 200 Eur. depois desta data.
++ 200 Eur. pelo bloco de 12 aulas e três aulas particulares.
 
 *Adicionar 15 Eur. - Valor facultativo, que diz respeito ao seguro e que deve ser pago diretamente ao Instituto Macrobiótico na primeira semana de aula. A sua subscrição é da inteira responsabilidade do praticante.*
 
 **Poderá ainda fazer o pagamento das 12 aulas deste bloco mensalmente**
 
-+ No valor de 40 Eur/Mês
++ No valor de 40 Eur./Mês
 
 O valor das aulas avulso é de 15 Eur. por aula
 
