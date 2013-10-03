@@ -2,7 +2,7 @@
 layout: default 
 title: Avancadas
 ---
-### Aulas Avançadas
+###Aulas Avançadas
 
 >"Na aula de hoje vou fazer dois grupos: Um avançado e outro de iniciados. Dirijam-se por favor os alunos avançados para a direita e os iniciados para a esquerda" - **Mestre Lam Kam Chuen**
 
