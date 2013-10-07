@@ -8,11 +8,10 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-O novo programa de aulas de Outono vai ter início dia 3 de Outubro. Ainda existem vagas
-paras ambos os horários. Informações sobre as próximas 12 semanas de treino intensivo
-dedicadas ao fortalecimento e flexibilização dos ombros podem ser encontradas
-[aqui](http://devagar.org/regulares.html).  
+**Próximas sessões de treino intensivo:**
 
+Dia 16 de Novembro e 14 de Dezembro na Escola Secundária António Arroio das 10 às 13h. 
+Destinam-se alunos e ex-alunos.
 
 ### Quem?
 
