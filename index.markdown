@@ -13,6 +13,11 @@ title: A arte do Cultivo da Quietude
 Dia 16 de Novembro e 14 de Dezembro na Escola Secundária António Arroio das 10 às 13h. 
 Destinam-se alunos e ex-alunos.
 
+### Onde vou a estar a ensinar até final do ano
+
+[Instituto Macrobiotico de Portugal](http://www.e-macrobiotica.com) - Meridianos, Diagnóstico e Chi Kung dia 2 de Novembro. 
+[Curso Internacional de Macrobiótica](http://www.e-macrobiotica.com/formacao/cursos_breves/the_international_macrobiotic_course_-_level_1/) - Living trough seasons, Understanding your energy, Chi Kung. Semana de 10 a 24 de Novembro
+
 ### Quem?
 
 <p><img src="/files/foto.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
