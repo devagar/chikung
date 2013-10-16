@@ -60,7 +60,7 @@ Estas sessões são compostas por uma primeira aula com a duração de 90 minuto
 
 Depois da primeira sessão são agendadas aulas particulares semanais de 60 minutos de prática. 
 
-Os motivos porque pode ser procurado um programa de aulas particulares de Chi Kung pode estar relacionado com 
+Os motivos porque pode ser procurado um programa de aulas particulares de Chi Kung podem estar relacionados com 
 
 + Reduções dos níveis de stress e ansiedade
 + Regulação do sono
