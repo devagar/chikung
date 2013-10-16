@@ -75,7 +75,7 @@ Durante o período que dura este programa o meu email está disponível para qua
 
 Na última aula é avaliado o percurso feito pelo praticante e definidos objetivos para que a prática se mantenha consistente depois de terminadas estas cinco sessões. 
 
-O valor deste programa é de 150 Eur. e após terminado, o valor de aulas privadas suplementares será de 25 Eur. à semelhança dos alunos das aulas regulares. 
+O valor deste programa é de 150 Eur. e após terminado o valor de aulas privadas suplementares será de 25 Eur. à semelhança dos alunos das aulas regulares. 
 
 **Devido à natureza deste programa e à atenção que é dada a cada um dos participantes aceito apenas um numero restrito alunos. Se estiver interessado utilize o [formulário de contato](http://devagar.org/contato.html).**
 
