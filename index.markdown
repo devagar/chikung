@@ -8,7 +8,7 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-**Próximas sessões de treino intensivo:**
+**Próximas sessões de Prática Intensiva:**
 
 Dia 16 de Novembro e 14 de Dezembro - [programa detalhado aqui](intensivas.html)
 
