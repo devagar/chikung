@@ -16,7 +16,7 @@ As aulas permitem recolher material necessário prático e teórico para que ent
 
 Destinam-se a alunos, ex-alunos ou praticantes que queiram descobrir o Zhan Zhuang Chi Kung. 
 
-**O valor de cada prática intensiva é de 15 Eur. que deve ser pago até à ultima semana antes da aula -pessoalmente ou por transferência bancária para o nib 0045 5197 40259661184 38.**
+**O valor de cada prática intensiva é de 15 Eur. que deve ser pago até à ultima semana antes da aula - Pessoalmente ou por transferência bancária para o nib 0045 5197 40259661184 38.**
 
 Para inscrições realizadas na ultima semana o valor é de 20 Eur.
 
