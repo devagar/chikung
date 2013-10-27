@@ -21,7 +21,7 @@ Quem ensina sabe a importância de escrever mais que parágrafos e dedicar-se a 
 
 No Chi Kung é assim possível começar a treinar a partir do primeiro dia.
 
-Com um princípio de treino (letra), podemos aplica-lo a um movimento (palavra).
+Com um princípio de treino (letra), podemos aplicá-lo a um movimento (palavra).
 
 E é fantástico quando dizemos a nossa primeira palavra na linguagem em Chi Kung.
 
