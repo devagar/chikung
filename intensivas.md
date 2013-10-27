@@ -18,6 +18,9 @@ Destinam-se a alunos, ex-alunos ou praticantes que queiram descobrir o Zhan Zhua
 
 **O valor de cada prática intensiva é de 15 Eur. que deve ser pago até à ultima semana antes da aula - Pessoalmente ou por transferência bancária para o nib 0045 5197 40259661184 38.**
 
+Confirme a sua presença  utilizando o [seguinte
+formulário.](http://form.jotformeu.com/form/32993248831362) 
+
 Para inscrições realizadas na ultima semana o valor é de 20 Eur.
 
 **Próximos encontros:**
