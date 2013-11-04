@@ -8,15 +8,16 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-**Próximas sessões de Prática Intensiva:**
+**Próximas sessões de Prática**
 
 Dia 16 de Novembro e 14 de Dezembro - [programa detalhado aqui](intensivas.html)
 
-### Onde vou a estar a ensinar até final do ano
+### Onde vou a estar a ensinar
 
-[Instituto Macrobiotico de Portugal](http://www.e-macrobiotica.com) - Meridianos, Diagnóstico e Chi Kung dia 2 de Novembro. 
-
-[Curso Internacional de Macrobiótica](http://www.e-macrobiotica.com/formacao/cursos_breves/the_international_macrobiotic_course_-_level_1/) - Life through seasons, Body, energy and mind connection. Semana de 10 a 24 de Novembro
+25 e 26 de Janeiro 2014 - Pamplona, Chi Kung.
+1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
+Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
+1 e 2 de Março - Braga, Chi Kung.  
 
 ### Quem?
 
