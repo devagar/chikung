@@ -15,8 +15,10 @@ Dia 16 de Novembro e 14 de Dezembro - [programa detalhado aqui](intensivas.html)
 ### Onde vou a estar a ensinar
 
 25 e 26 de Janeiro 2014 - Pamplona, Chi Kung.
+
 1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
 Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
+
 1 e 2 de Março - Braga, Chi Kung.  
 
 ### Quem?
