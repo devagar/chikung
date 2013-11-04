@@ -47,12 +47,12 @@ E a escolha desses aspectos incluem o cultivo de espaço, tempo e colocação de
 
 Experiências de 
 
-+ desconectar - como me sinto se durante um jantar ou uma conversa desligar o telefone móvel.
-+ de quietude - como me sinto se durante uma semana me deitar 30 minutos mais cedo ou antes das 0h.
-+ de actividade - como me sinto se me levantar 30 minutos mais cedo, sair numa estação antes e caminhar até ao emprego.
-+ de nutrição - como me sinto se durante uma semana reduzir o numero de cafés, fumar menos, não comer açúcar refinado ou
++ **desconectar** - como me sinto se durante um jantar ou uma conversa desligar o telefone móvel.
++ **de quietude** - como me sinto se durante uma semana me deitar 30 minutos mais cedo ou antes das 0h.
++ **de actividade** - como me sinto se me levantar 30 minutos mais cedo, sair numa estação antes e caminhar até ao emprego.
++ **de nutrição** - como me sinto se durante uma semana reduzir o numero de cafés, fumar menos, não comer açúcar refinado ou
 introduzir um novo alimento na minha alimentação. 
-+ de duração - ler o livro até ao fim, acabar o que se começa, manter-se focado numa tarefa de cada vez. 
++ **de duração** - ler o livro até ao fim, acabar o que se começa, manter-se focado numa tarefa de cada vez. 
 
 As peregrinações podem assim fazer parte do seu dia a dia em que a ideia não se resume a uma escolha maioritariamente de
 experiências intensas mas numa escolha maioritária de experiências que investem na duração.
