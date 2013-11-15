@@ -6,15 +6,13 @@ title: Inicio
 
 O meu nome é Lourenço de Azevedo e desde 1997 que esta pergunta tem sido o meu mantra pessoal. 
 
-Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante quatro fatores. 
+Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três fatores. 
 
-1. **O espaço físico disponível para a prática,** há quem tenha parques frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que quer praticar.  
+1. **O espaço físico disponível para a prática,** há quem tenha parques frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que quer praticar. 
 
 2. **O tempo que pode disponibilizar para a prática diária,** quanto consegue disponibilizar por dia de tempo para estar consigo para o seu tempo de qualidade?
 
 3. **Os recursos disponíveis** são como os ingredientes que são necessários para cozinhar um prato o mais nutritivo possível. No entanto saber muito nem sempre significa um treino eficaz tal como muitos ingredientes na cozinha não garantem o sucesso da refeição.
-
-4. **O contexto social ou familiar** onde o praticante está inserido. Existem condições mais favoráveis que outras. Nestas situações gosto sempre de me lembrar que o Tolstoi tinha 10 filhos quando escreveu a sua obra Guerra e Paz. 
 
 Nestes anos de prática, investigação pessoal, aulas, cursos e fascínio pela regularidade do treino resultaram nos recursos que este blog disponibiliza.
 
@@ -25,8 +23,6 @@ Nestes anos de prática, investigação pessoal, aulas, cursos e fascínio pela 
 * **[Todas as semanas existem aulas regulares](/aulas.html)**. Estas aulas estão divididas em blocos de 10 a 12 semanas que funcionam como um curso onde o praticante aprende a desenvolver um treino à medida das suas capacidades individuais. Conheça aqui as propostas de aulas [regulares ](/regulares.html) e [avançadas](/avancadas.html).
 
 ### 10 Artigos introdutórios ao Cultivo da Quietude
-
-
 
 [5 Ideias para criar uma Mente Tranquila](/2013/01/07/mente-tranquila.html)
 
