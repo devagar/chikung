@@ -25,7 +25,7 @@ Estes três conceitos podem ser divididos em outros que são integrantes do que 
 
 <p align="center"><img src="/files/maos-pict.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
 
-Assumir a nossa **Autonomia** é assumir a responsabilidade de compreender e saber mais sobre o nosso corpo, sobre a nossa mente, a nossa economia doméstica, a forma como utilizamos as novas tecnologias, a forma como gerimos o nosso tempo, espaço e recursos. 
+**Autonomia** é capacidade de assumir a responsabilidade de compreender e saber mais sobre o nosso corpo, sobre a nossa mente, a nossa economia doméstica, como utilizamos as novas tecnologias, como gerimos o nosso tempo, espaço e recursos. 
 
 **A Comunidade ou Tribo** auxilia o desenvolvimento do potencial de cada um num contexto do grupo. O que funciona bem na "nossa caverna" pode bem não ser de grande utilidade quando utilizado num meio de interação com o outro. É também a comunidade que se incentiva e cria soluções conjuntas para fortalecimento e divulgação da arte que praticam e promovem a autonomia do indivíduo.
 
