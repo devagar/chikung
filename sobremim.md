@@ -27,7 +27,7 @@ Estes três conceitos podem ser divididos em outros que são integrantes do que 
 
 **Autonomia** é capacidade de assumir a responsabilidade de compreender e saber mais sobre o nosso corpo, sobre a nossa mente, a nossa economia doméstica, como utilizamos as novas tecnologias, como gerimos o nosso tempo, espaço e recursos. 
 
-**A Comunidade ou Tribo** auxilia o desenvolvimento do potencial de cada um num contexto do grupo. O que funciona bem na "nossa caverna" pode bem não ser de grande utilidade quando utilizado num meio de interação com o outro. É também a comunidade que se incentiva e cria soluções conjuntas para fortalecimento e divulgação da arte que praticam e promovem a autonomia do indivíduo.
+**A Comunidade ou Tribo** auxilia o desenvolvimento do potencial de cada um num contexto do grupo. O que funciona bem na "nossa caverna" pode bem não ser de grande utilidade quando utilizado num meio de interação com o outro. É também a comunidade que se incentiva e cria soluções conjuntas para fortalecimento e divulgação da arte que praticam. Uma Comunidade saudável promove a autonomia do indivíduo.
 
 <p align="center"><img src="/files/comu2-pict.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
 
