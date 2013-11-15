@@ -19,7 +19,7 @@ Dia 16 de Novembro e 14 de Dezembro - [programa detalhado aqui](intensivas.html)
 1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
 Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
 
-1 e 2 de Março - Braga, Chi Kung.  
+1 e 2 de Março - Braga, Chi Kung. 
 
 ### Quem?
 
@@ -29,9 +29,13 @@ Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que pos
 
 Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de ensino, eventos corporativos e aulas particulares. 
 
-Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. [O meu curriculum detalhado](/files/cv2013.pdf)
+Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. 
 
-###Ultimos artigos que publiquei
+[Pode saber mais sobre o que faço e ensino aqui](sobremim.html)
+
+[Ou descarregar o meu curriculum detalhado](/files/cv2013.pdf)
+
+###Ultimos artigos publicados
 
 <div class="hfeed">
 	<article class="hentry entry">

@@ -42,6 +42,7 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 
 - Das 12:30 às 13:45 - Bloco de 12 aulas regulares
 
+<a id="particulares"> </a>
 - Das 18:45 às 20h - Bloco de 12 aulas regulares
 
 ### Aulas Particulares 
