@@ -8,9 +8,14 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-**Próximas sessões de Prática**
+**Próximas sessões de Chi Kung ao Sábado**
 
-Dia 16 de Novembro e 14 de Dezembro - [programa detalhado aqui](intensivas.html)
+14 de Dezembro 
+18 de Janeiro de 2014
+15 de Fevereiro
+15 de Março
+17 de Maio
+28 de Junho - [programa detalhado aqui](intensivas.html)
 
 ### Onde vou a estar a ensinar
 
@@ -31,7 +36,7 @@ Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ens
 
 Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. 
 
-[Pode saber mais sobre o que faço e ensino aqui](sobremim.html) ou [descarregar o meu curriculum detalhado](/files/cv2013.pdf)
+[Pode saber mais sobre o que faço e ensino aqui.](sobremim.html) 
 
 ###Ultimos artigos publicados
 
