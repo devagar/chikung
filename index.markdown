@@ -8,23 +8,20 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-**Próximas sessões de Chi Kung ao Sábado**
+**Próxima sessões de Chi Kung ao Sábado**
 
-14 de Dezembro 
-18 de Janeiro de 2014
-15 de Fevereiro
-15 de Março
-17 de Maio
-28 de Junho - [programa detalhado aqui](intensivas.html)
+14 de Dezembro  - [Consulte programa detalhado e calendário das próximas datas](intensivas.html)
 
 ### Onde vou a estar a ensinar
 
-25 e 26 de Janeiro 2014 - Pamplona, Chi Kung.
+25 e 26 de Janeiro 2014 - Chi Kung, Pamplona
 
 1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
 Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
 
-1 e 2 de Março - Braga, Chi Kung. 
+de 17 a 27 de Fevereiro - Chi Kung e Teoria dos Meridianos - Curso Internacional de Macrobiótica - Nível 2.
+
+1 e 2 de Março - Chi Kung, Braga. 
 
 ### Quem?
 
