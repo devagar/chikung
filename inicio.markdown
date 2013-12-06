@@ -6,7 +6,7 @@ title: Inicio
 
 O meu nome é Lourenço de Azevedo e desde 1997 que esta pergunta tem sido o meu mantra pessoal. 
 
-Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três fatores. 
+Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três factores. 
 
 1. **O espaço físico disponível para a prática,** há quem tenha parques frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que quer praticar. 
 
