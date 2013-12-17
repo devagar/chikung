@@ -8,7 +8,7 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-Novos horários e mais aulas para para as práticas [regulares](regulares.html) e [avancadas](avançadas.html)
+Novos horários e mais aulas para para as práticas [regulares](regulares.html) e [avançadas](avancadas.html)
 
 **Próxima sessões de Chi Kung ao Sábado**
 
