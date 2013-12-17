@@ -7,43 +7,46 @@ title: aulas
 
 <p align="center"><img src="/files/aula1.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
 
-As aulas lecionadas são apresentadas sobre formas de cursos que têm a duração de 10 a 12 semanas. O próximo curso tem início dia 1 de Outubro e termina a 19 de Dezembro.
+As aulas leccionadas são apresentadas sobre formas de cursos que têm a duração de 10 a 12 semanas. O próximo curso tem início dia 7 de Janeiro de e termina dia 18 de Março.
 
-Porque se não existir autonomia na prática do Chi Kung o praticante nunca poderá experimentar os benefícios reais que esta prática confere, estas aulas destinam-se a criar no praticante a autonomia e segurança para poder praticar em casa. 
+Porque se não existir autonomia na prática do Chi Kung o praticante nunca poderá experimentar os benefícios reais que esta arte confere, estas aulas destinam-se a criar no praticante hábitos de prática para que possa atingir autonomia e segurança para poder praticar em casa. 
 
-Todos os trimestres existe um tema de fundo que auxilia a integrar o Chi Kung nas necessidades específicas de cada praticantes neste trimestre o desafio é aprender relaxar e foralecer os ombros. 
+Todos os trimestres existe um tema de fundo que auxilia a integrar o Chi Kung nas necessidades específicas de cada praticantes para trimestre o desafio é o fortalecimento das costas segundo a teoria da Medicina Tradicional Chinesa.
 
-As aulas têm a duração de 75 minutos.
+As aulas têm a duração de 75 minutos e existe a possibilidade de praticar uma a duas vezes por semana. 
 
-Ao frequentar as aulas regulares o praticante recebe o acesso a uma plataforma de ensino onde se encontra integrado numa comunidade de praticantes assim como lhe dá acesso a material de estudo para que possa individualmente desenvolver a sua prática pessoal.
+Ao frequentar as aulas regulares o praticante recebe o acesso a uma plataforma de estudo onde se encontra integrado numa comunidade de praticantes assim como lhe dá acesso a material para que possa individualmente desenvolver hábitos que permitam fortalecer a sua prática a sua prática pessoal. 
 
-O valor mensal das aulas regulares de 40 Eur. e já inclui acesso ao material de estudo.
+O valor mensal das aulas regulares de 40 Eur. e já inclui acesso à plataforma de ensino. 
 
 O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qualquer compromisso. 
 
-
 ### Horário Terças 
 
-- Self Healing Space (Av. Roma) 
+<p><a href="http://e-macrobiotica.com" target="_blank">Instituto Macrobiótico de Portugal</a></p>
 
-- Das 12:30 às 13:45 - Bloco de 12 aulas avançadas
+- Das 11:00 às 12:15 Aulas avançadas
 
-- Das 18:45 às 20h - Bloco de 12 aulas avançadas 
+- Das 12:30 às 13:45 Aulas regulares
+
+- **Self Healing Space (Av. Roma)** 
+
+- Das 18:45 às 20h - Aulas avançadas 
 
 ### Quartas
 
 - Self Healing Space (Av. Roma) 
 
-- Das 12:30 às 13:45 - Bloco de 12 aulas [Chi Kung Feminino](http://chegar.org/441-2/) com [Sílvia Romão](http://chegar.org/quem/)
+- Das 12:30 às 13:30 - Bloco de 12 aulas [Chi Kung Feminino](http://chegar.org/441-2/) com [Sílvia Romão](http://chegar.org/quem/)
 
 ### Quintas 
 
 <p><a href="http://e-macrobiotica.com" target="_blank">Instituto Macrobiótico de Portugal</a></p>
 
-- Das 12:30 às 13:45 - Bloco de 12 aulas regulares
+- Das 12:30 às 13:45 - Aulas regulares
 
 <a id="particulares"> </a>
-- Das 18:45 às 20h - Bloco de 12 aulas regulares
+- Das 18:45 às 20h - Aulas regulares
 
 ### Aulas Particulares 
 

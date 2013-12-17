@@ -8,7 +8,7 @@ title: Avancadas
 
 O resultado desta proposta foi que os estudantes ficaram sem saber que posição tomar - se para a direita se para a esquerda. Afinal quem é avançado e quem é iniciado?
 
-A resposta a esta questão não é direta mas na elaboração do programa avançado para este ano tomei em conta a capacidade que o aluno tem de organizar o seu treino individual.
+A resposta a esta questão não é directa mas na elaboração do programa avançado para este ano tomei em conta a capacidade que o aluno tem de organizar o seu treino individual.
 
 E enquanto o tema central das aulas regulares é a criação de um treino consistente, nas aulas avançadas é a criação de recursos para tornar o treino mais completo e eficaz de acordo com as necessidades individuais de cada um. 
 
@@ -22,15 +22,13 @@ A estrutura mantém-se: 75 minutos durante um bloco de aulas que pode variar ent
 
 O material a ser apresentado é baseado nos clássicos da Medicina Tradicional Chinesa ou da Filosofia Oriental. No entanto este material é ilustrado sempre com a componente física das várias posturas e movimentos que fazem parte do sistema de Zhan Zhuang Chi Kung. 
 
-**As vagas para este bloco são limitadas a seis alunos** em cada um dos horários o que permite também um ensino mais focado e acompanhado. 
-
 Tal como nas aulas regulares existem dois programas disponíveis. 
 
 <p  align="center"><img src="/files/pa1.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
 
 <p  align="center"><img src="/files/pa2.jpg" style="border: 1px solid #ccc; padding: 4px; width: 50% "></p>
 
-Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado dois blocos de aulas regulares e que tenham criado uma rotina de treino consistente. 
+**Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado três blocos de aulas regulares e que tenham criado uma rotina de treino diário consistente.**
 
 ## Como participar em três passos:
 
@@ -38,36 +36,34 @@ Estas aulas estão abertas a todos os alunos que tenham pelo menos realizado doi
 
 **Aulas semanais:**
 
-+ 120 Eur. pelo programa de estudos que inclui as 12 aulas.  
++ 100 Eur. pelo programa de 10 aulas quando feita a inscrição no valor de 30 Eur. até dia 3 de Janeiro depois desta data o valor será de 120 Eur.
 
 **Aulas semanais com apoio individual:**
 
-+ 200 Eur. pelo programa que inclui as 12 aulas mais três aulas
-privadas. 
++ 175 Eur. pelo bloco de 10 aulas e três aulas particulares. 
 
 *A subscrição de um seguro de saúde para a prática de atividades com as características do Chi Kung é da inteira responsabilidade do praticante.*
 
-**Poderá ainda fazer o pagamento das 12 aulas deste bloco mensalmente**
+**Poderá ainda fazer o pagamento das 10 aulas deste bloco mensalmente**
 
 + No valor de 40 Eur/Mês
 
 O valor das aulas avulso é de 15 Eur. por aula
 
-**Existe ainda uma possibilidade de frequentar as aulas avançadas e [regulares](/regulares.html) adicionando o valor de 50€ a cada um dos programas com inscrição até 26 de Outubro.**
+**Existe ainda uma possibilidade de frequentar as aulas avançadas e [regulares (1 x por semana)](/regulares.html) adicionando o valor de 60€ a este programa com inscrição até 3 de JAneiro.**
 
-O bloco de 24 aulas semanais ficará em 150 Eur. 
-O bloco de 24 Aulas aulas com acompanhamento ficará em 225 Eur.
+O bloco de 20 aulas semanais ficará assim em 160 Eur. 
 
 Para outros valores por favor <a href="mailto:lourencoazevedo@devagar.org?subject=Aulas Avançadas">contacte-me.</a>
 
 **Passo 2** - <a href="/form.html" target="_blank">Preencha os seguinte formulário 
 </a>
 
-**Passo 3** - Transfira o valor da inscrição (30 Eur. - a deduzir no preço do programa) para o  Nib 0007 0000 00670890704 23
+**Passo 3** - Transfira o valor da inscrição (30 Eur. - a deduzir no preço do programa) para o  Nib 0045 5197 40259661184 38
 
 O restante valor deve ser pago no dia da primeira aula ou por transferência bancária.
 
-## Dia 1 de Outubro começam as aulas.
+## Dia 7 de Janeiro começam as aulas.
 
 Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
