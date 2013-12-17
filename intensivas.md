@@ -25,8 +25,6 @@ formulário.](http://form.jotformeu.com/form/32993248831362)
 
 Das 10 às 13h na Escola Secundária António Arroio.  
 
-**14 de Dezembro.** Tema: Fortalecimento e flexibilização das costas para o Inverno. Exercícios adaptados à estação do Inverno com foco nas costas e coluna vertebral. 
-
 **18 de Janeiro de 2014** Tema: Prática Zero, para quem nunca praticou e quer conhecer o Zhan Zhuang Chi Kung.
 
 Outras datas em agenda 

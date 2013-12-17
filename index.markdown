@@ -8,9 +8,11 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
+Novos horários e mais aulas para para as práticas [regulares](regulares.html) e [avançadas](avançadas.html)
+
 **Próxima sessões de Chi Kung ao Sábado**
 
-14 de Dezembro  - [Consulte programa detalhado e calendário das próximas datas](intensivas.html)
+18 Janeiro  - [Consulte programa detalhado e calendário das próximas datas](intensivas.html)
 
 ### Onde vou a estar a ensinar
 
