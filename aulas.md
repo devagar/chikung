@@ -23,13 +23,14 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 
 ### Horário Terças 
 
-<p><a href="http://e-macrobiotica.com" target="_blank">Instituto Macrobiótico de Portugal</a></p>
+[Instituto Macrobiótico de Portugal](http://e-macrobiotica.com)
 
 - Das 11:00 às 12:15 Aulas avançadas
 
 - Das 12:30 às 13:45 Aulas regulares
 
-- **Self Healing Space (Av. Roma)** 
+
+**Self Healing Space (Av. Roma)** 
 
 - Das 18:45 às 20h - Aulas avançadas 
 
