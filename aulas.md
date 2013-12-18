@@ -18,10 +18,8 @@ As aulas têm a duração de 75 minutos e existe a possibilidade de praticar uma
 Ao frequentar as aulas regulares o praticante recebe o acesso a uma plataforma de estudo onde se encontra integrado numa comunidade de praticantes assim como lhe dá acesso a material para que possa individualmente desenvolver hábitos que permitam fortalecer a sua prática a sua prática pessoal. 
 
 O valor mensal das aulas regulares de 40 Eur. e já inclui acesso à plataforma de ensino. 
-
-O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qualquer compromisso. 
-
 <a id="horarios"> </a>
+O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qualquer compromisso. 
 
 ### Horário Terças 
 
