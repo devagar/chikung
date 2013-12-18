@@ -36,9 +36,9 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 
 ### Quartas
 
-- Self Healing Space (Av. Roma) 
+**Self Healing Space (Av. Roma)**
 
-- Das 12:30 às 13:30 - Bloco de 12 aulas [Chi Kung Feminino](http://chegar.org/441-2/) com [Sílvia Romão](http://chegar.org/quem/)
+- Das 12:30 às 13:30 - Bloco de 11 aulas [Chi Kung Feminino](http://chegar.org/441-2/) com [Sílvia Romão](http://chegar.org/quem/)
 
 ### Quintas 
 
