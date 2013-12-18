@@ -19,6 +19,8 @@ Ao frequentar as aulas regulares o praticante recebe o acesso a uma plataforma d
 
 O valor mensal das aulas regulares de 40 Eur. e já inclui acesso à plataforma de ensino. 
 
+<a id="horarios"> </a>
+
 O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qualquer compromisso. 
 
 ### Horário Terças 
@@ -44,6 +46,7 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 
 <p><a href="http://e-macrobiotica.com" target="_blank">Instituto Macrobiótico de Portugal</a></p>
 
+- Das 11:30 às 12:15 - Chi Kung sentado - tema anual relaxamento e sistema imune. 
 - Das 12:30 às 13:45 - Aulas regulares
 
 <a id="particulares"> </a>
