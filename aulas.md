@@ -22,6 +22,7 @@ O valor mensal das aulas regulares de 40 Eur. e já inclui acesso à plataforma 
 O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qualquer compromisso. 
 
 <a id="horarios"> </a>
+
 ### Horário Terças 
 
 [Instituto Macrobiótico de Portugal](http://e-macrobiotica.com)
