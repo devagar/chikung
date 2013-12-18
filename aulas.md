@@ -25,34 +25,34 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 
 [Instituto Macrobiótico de Portugal](http://e-macrobiotica.com)
 
-- Das 11:00 às 12:15 Aulas avançadas
+- Das 11:00 às 12:15 Aulas [avançadas](/avancadas.html)
 
-- Das 12:30 às 13:45 Aulas regulares
+- Das 12:30 às 13:45 Aulas [regulares](/regulares.html)
 
 
 **Self Healing Space (Av. Roma)** 
 
-- Das 18:45 às 20h - Aulas avançadas 
+- Das 18:45 às 20h - Aulas [avançadas](/avancadas.html)
 
 ### Quartas
 
 **Self Healing Space (Av. Roma)**
 
-- Das 12:30 às 13:30 - Bloco de 11 aulas [Chi Kung Feminino](http://chegar.org/441-2/) com [Sílvia Romão](http://chegar.org/quem/)
+- Das 12:30 às 13:30 - Bloco de 11 aulas [Chi Kung Feminino](http://chegar.org/ckf2/) com [Sílvia Romão](http://chegar.org/quem/)
 
 ### Quintas 
 
 <p><a href="http://e-macrobiotica.com" target="_blank">Instituto Macrobiótico de Portugal</a></p>
 
-- Das 11:30 às 12:15 - Chi Kung sentado - tema anual relaxamento e sistema imune. 
-- Das 12:30 às 13:45 - Aulas regulares
+- Das 11:30 às 12:15 - Chi Kung sentado - Tema anual relaxamento e sistema imune. 
+- Das 12:30 às 13:45 - Aulas [regulares](/regulares.html)
 
 <a id="particulares"> </a>
-- Das 18:45 às 20h - Aulas regulares
+- Das 18:45 às 20h - Aulas [regulares](/regulares.html)
 
 ### Aulas Particulares 
 
-As aulas particulares destinam-se a criar uma prática personalizada direcionada para questões mais específicas de cada aluno. 
+As aulas particulares destinam-se a criar uma prática personalizada direccionada para questões mais específicas de cada aluno. 
 
 Considero o espaçamento ideal entre aulas particulares para quem frequenta aulas regulares entre 4 a 6 semanas.
 
