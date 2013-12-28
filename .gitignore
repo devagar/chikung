@@ -2,4 +2,5 @@ _site/
 *.swp
 pkg/
 test/
+.git
 .DS_Store
