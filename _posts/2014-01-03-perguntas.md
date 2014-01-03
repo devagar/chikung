@@ -1,8 +1,8 @@
 ---
-title: Último dia com condições especiais de inscrição no curso de Inverno de Chi Kung.
+title: Último dia com condições especiais de inscrição e perguntas mais frequentes.
 layout: post
 ---
-Hoje dia 3 termina às 0h a possibilidade de beneficiar de uma redução na inscrição para o próximo Chi Kung Dojo - Fortalecer as costas no Inverno. 
+Hoje dia 3 termina às 0h a possibilidade de beneficiar de uma redução na inscrição para o próximo Chi Kung Dojo - **Fortalecer as costas no Inverno.**
 
 Durante a divulgação de cada bloco de aulas existem perguntas que me vão sendo colocadas por email.
 
