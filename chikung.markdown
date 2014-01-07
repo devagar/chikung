@@ -58,6 +58,7 @@ Neste blog encontrará recursos que apoiam esta prática, mas se está curioso o
 A raízes da prática criada pelo Mestre Wang Xiang Zhai (1885-1963) apresenta duas componentes: a componente terapêutica e a componente marcial. No entanto, quer a abordagem terapêutica do Zhan Zhuang Chi Kung quer a abordagem Marcial do Xing Yi Chuan têm a sua origem comum no cultivo da quietude. Este cultivo tem raízes que podem ser encontradas nas práticas físicas do budismo indiano em conjunto com o Taoísmo nativo da China com mais de 2500 anos. 
 
  O mestre Wang Xiang Zhai dedicou a sua vida a reunir as peças perdidas desta arte. Educado na sua infância pelo seu tio Guo Yunshen - um famoso artista marcial da época, o jovem Wang aprendeu as posturas básicas que lhe permitiram recuperar a sua saúde débil. Após a morte do seu tio viajou por toda a China, aprendendo com os mestres de artes marciais da altura. Estes encontros permitiram-lhe re-descobrir gradualmente a arte do cultivo da quietude e as suas implicações a um nível marcial, terapêutico e espiritual. 
+<a id="yuyongnian"> </a> 
 <br>
 <br>
 
