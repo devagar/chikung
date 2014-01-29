@@ -41,14 +41,14 @@ Escrevo com regularidade neste blog e sou o criador de programas de estudo que s
 
 <div class="hfeed">
 	<article class="hentry entry">
-	  <p>{% for post in site.posts limit:5 %}
-	      <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%d-%m-%Y - " }}</time>
-	      <a href="{{ post.url }}">{{ post.title }}</a>
-	      <br>
-	  {% endfor %}
-	</p>
-	</article>
-</div>
+	  	<p>{% for post in site.posts limit:5 %}
+			<a href="{{ post.url }}">{{ post.title }}</a>
+			<time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "- %b %d, %Y" }}</time> 
+		  <br>
+		  {% endfor %}
+		 </p>
+	 </article>
+ </div>
 
 [Mais artigos](http://devagar.org/blog.html) 
 
