@@ -12,11 +12,10 @@ Novos horários e mais aulas para para as práticas [regulares](regulares.html) 
 
 **Próxima sessões de Chi Kung ao Sábado**
 
-18 Janeiro  - [Consulte programa detalhado e calendário das próximas datas](intensivas.html)
+15 de Fevereiro - A Respiração no Zhan Zhuang Chi Kung  - [Consulte programa
+detalhado e calendário das próximas datas](intensivas.html)
 
 ### Onde vou a estar a ensinar
-
-25 e 26 de Janeiro 2014 - Chi Kung, Pamplona
 
 1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
 Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
