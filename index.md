@@ -17,10 +17,8 @@ detalhado e calendário das próximas datas](intensivas.html)
 
 ### Onde vou a estar a ensinar
 
-1 e 2 de Fevereiro - Pamplona Diagnóstico da língua - [Euskal Eskola
-Makrobiotikoa.](http://www.euskaleskolamakrobiotikoa.blogspot.pt/)
-
-de 17 a 27 de Fevereiro - Chi Kung e Teoria dos Meridianos - Curso Internacional de Macrobiótica - Nível 2.
+De  17 a 27 de Fevereiro - Chi Kung e Teoria dos Meridianos - Curso
+Internacional de Macrobiótica - Nível 2.
 
 1 e 2 de Março - Chi Kung, Braga - Descarregue o [programa aqui](https://s3-eu-west-1.amazonaws.com/devagar/seminario-braga.pdf). 
 
