@@ -148,6 +148,11 @@ empresa. Se deseja conhecer estes programas em profundidade ou marcar uma
 sessão de esclarecimento utilize o [formulário de
 contato](http://devagar.org/contato.html).
 
+Alguns do cursos, instituições ou empresas onde tenho ensinando e que têm
+beneficiado com a prática ou introdução do Chi Kung nos seus programas. 
+
+![empresas](/files/empresas.jpg)
+
 
 ###Foundation Teachers 
 

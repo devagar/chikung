@@ -8,19 +8,39 @@ O meu nome é Lourenço de Azevedo e desde 1997 que esta pergunta tem sido o meu
 
 Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três factores. 
 
-1. **O espaço físico disponível para a prática,** há quem tenha parques frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que quer praticar. 
+1. **O espaço físico disponível para a prática,** há quem tenha parques
+frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que
+quer praticar. 
 
-2. **O tempo que pode disponibilizar para a prática diária,** quanto consegue disponibilizar por dia de tempo para estar consigo para o seu tempo de qualidade?
+2. **O tempo que pode disponibilizar para a prática diária,** quanto consegue
+disponibilizar por dia de tempo para estar consigo para o seu tempo de
+qualidade?
 
-3. **Os recursos disponíveis** são como os ingredientes que são necessários para cozinhar um prato o mais nutritivo possível. No entanto saber muito nem sempre significa um treino eficaz tal como muitos ingredientes na cozinha não garantem o sucesso da refeição.
+3. **Os recursos disponíveis** são como os ingredientes que são necessários para
+cozinhar um prato o mais nutritivo possível. No entanto saber muito nem sempre
+significa um treino eficaz tal como muitos ingredientes na cozinha não garantem
+o sucesso da refeição.
 
-Nestes anos de prática, investigação pessoal, aulas, cursos e fascínio pela regularidade do treino resultaram nos recursos que este blog disponibiliza.
+Nestes anos de prática, investigação pessoal, aulas, cursos e fascínio pela
+regularidade do treino resultaram nos recursos que este blog disponibiliza.
 
-* **[Artigos escritos e publicados semanalmente](/artigos.html)** ajudam a refletir sobre a prática e estratégias de a tornar mais eficaz e integrada no dia a dia. Para os receber na comodidade do seu email subscreva aqui.  
+* [**Programas de estudo**](estudar.html) para que seja possível praticar
+Zhan Zhuang Chi Kung mediante as necessidades individuais de cada
+praticante. 
 
-* **[Um vídeo essencial](/video.html)** que contêm exercícios de prática de Zhan Zhuang Chi Kung que ajudam a conhecer melhor esta prática e apresentam sete exercícios essenciais: o aquecimento, as posturas e a auto-massagem final.
+* **[Artigos escritos e publicados semanalmente](/artigos.html)** ajudam
+a refletir sobre a prática e estratégias de a tornar mais eficaz e integrada no
+dia a dia. Para os receber na comodidade do seu email subscreva aqui.  
 
-* **[Todas as semanas existem aulas regulares](/aulas.html)**. Estas aulas estão divididas em blocos de 10 a 12 semanas que funcionam como um curso onde o praticante aprende a desenvolver um treino à medida das suas capacidades individuais. Conheça aqui as propostas de aulas [regulares ](/regulares.html) e [avançadas](/avancadas.html).
+* **[Um vídeo essencial](/video.html)** que contêm exercícios de prática de Zhan
+Zhuang Chi Kung que ajudam a conhecer melhor esta prática e apresentam sete
+exercícios essenciais: o aquecimento, as posturas e a auto-massagem final.
+
+* **[Todas as semanas existem aulas regulares](/aulas.html)**. Estas aulas estão
+divididas em blocos de 10 a 12 semanas que funcionam como um curso onde
+o praticante aprende a desenvolver um treino à medida das suas capacidades
+individuais. Conheça aqui as propostas de aulas [regulares ](/regulares.html)
+e [avançadas](/avancadas.html).
 
 ### 10 Artigos introdutórios ao Cultivo da Quietude
 
