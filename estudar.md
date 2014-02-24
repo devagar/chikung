@@ -148,15 +148,10 @@ empresa. Se deseja conhecer estes programas em profundidade ou marcar uma
 sessão de esclarecimento utilize o [formulário de
 contato](http://devagar.org/contato.html).
 
-Cursos, instituições ou empresas onde tenho ensinando e que têm
-beneficiado com a prática ou introdução do Chi Kung nos seus programas. 
 
-IMP, Tap, Iril, Forum Dança, Escola de Feng Shui Euskal 
+###Foundation Teachers 
 
-###Foundation Teachers
-
-Para mim um dos maiores desafios de quem ensina é o de "ensinar
-a ensinar".
+Para mim um dos maiores desafios de quem ensina é o de "ensinar a ensinar".
 
 É ai que avaliamos a nossa capacidade de síntese e de tornar o nosso
 processo mental em algo que pode ser replicado em benefício dos outros. 
