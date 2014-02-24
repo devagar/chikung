@@ -21,7 +21,7 @@ detalhado e calendário das próximas datas](intensivas.html)
 [Conheça aqui](estudar.html) as oportunidades de estudar Zhan Zhuang Chi Kung,
 em aulas de grupo, terapia individual ou formação de professores.  
 
-Conheça também [os programas específicos](estudar.html/#empresas) para empresas
+Conheça também [os programas específicos](estudar.html#empresas) para empresas
 utilizando a Filosofia Oriental e o Chi Kung. 
 
 ###Onde vou a estar a ensinar
