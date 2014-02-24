@@ -24,9 +24,8 @@ o sucesso da refeição.
 Nestes anos de prática, investigação pessoal, aulas, cursos e fascínio pela
 regularidade do treino resultaram nos recursos que este blog disponibiliza.
 
-* [**Programas de estudo**](estudar.html) para que seja possível praticar
-Zhan Zhuang Chi Kung mediante as necessidades individuais de cada
-praticante. 
+* **[Programas de estudo](estudar.html)** para que seja possível praticar Zhan
+Zhuang Chi Kung mediante as necessidades individuais de cada praticante. 
 
 * **[Artigos escritos e publicados semanalmente](/artigos.html)** ajudam
 a refletir sobre a prática e estratégias de a tornar mais eficaz e integrada no
