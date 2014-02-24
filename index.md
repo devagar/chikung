@@ -8,19 +8,29 @@ title: A arte do Cultivo da Quietude
 
 ###Agenda
 
-Novos horários e mais aulas para para as práticas [regulares](regulares.html) e [avançadas](avancadas.html)
+Novos horários e mais aulas para para as práticas [regulares](regulares.html)
+e [avançadas](avancadas.html)
 
 **Próxima sessões de Chi Kung ao Sábado**
 
-15 de Fevereiro - A Respiração no Zhan Zhuang Chi Kung  - [Consulte programa
+15 de Março - Alongamentos a partir do Zhan Zhuang Chi Kung- [Consulte programa
 detalhado e calendário das próximas datas](intensivas.html)
 
-### Onde vou a estar a ensinar
+###Estudar Chi Kung?
 
-De  17 a 27 de Fevereiro - Chi Kung e Teoria dos Meridianos - Curso
+[Conheça aqui](estudar.html) as oportunidades de estudar Zhan Zhuang Chi Kung,
+em aulas de grupo, terapia individual ou formação de professores.  
+
+Conheça também [os programas específicos](estudar.html/#empresas) para empresas
+utilizando a Filosofia Oriental e o Chi Kung. 
+
+###Onde vou a estar a ensinar
+
+**De 17 a 27 de Fevereiro** - Chi Kung e Teoria dos Meridianos - Curso
 Internacional de Macrobiótica - Nível 2.
 
-1 e 2 de Março - Chi Kung, Braga - Descarregue o [programa aqui](https://s3-eu-west-1.amazonaws.com/devagar/seminario-braga.pdf). 
+**12 de Abril** - As cinco Transformações - Instituto Macrobiótico - Nível
+1.
 
 ### Quem?
 
@@ -28,9 +38,14 @@ Internacional de Macrobiótica - Nível 2.
 
 Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que possamos ensinar e sistemas que possamos representar o mais importante é ensinar a integrar a prática no dia a dia. Em cada momento e atividade somos o reflexo dessa prática. 
 
-Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de ensino, eventos corporativos e aulas particulares. 
+Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática,
+terapia e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de
+ensino, eventos corporativos e aulas particulares. 
 
-Escrevo com regularidade neste blog e sou o criador de programas de estudo que se destinam a levar a integração do Chi Kung para o dia a dia de cada praticante e/ou a fortalecer a prática já existente. 
+Escrevo com regularidade neste blog e sou o criador de [programas de
+estudo](estudar.html) que se destinam a utlizar o Chi Kung como terapia
+e a levar a sua integração para o dia a dia de cada praticante ou a fortalecer
+uma prática já existente. 
 
 [Pode saber mais sobre o que faço e ensino aqui.](sobremim.html) 
 

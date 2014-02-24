@@ -1,34 +1,55 @@
 ---
 layout: default 
-title: Fortalecimento da prática
+title: Chi Kung ao Sábado
 ---
-###Sessões de fortalecimento do da prática
+###Chi Kung ao Sábado
 
 <p align="center"><img src="/files/aula3.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
 
-Quando pratica regularmente treinar em conjunto permite-nos compreender o nosso potencial e onde a nossa prática individual pode ser ajustada para tiramos o maior partido dos nossos recursos. 
+Treinar em conjunto permite-nos compreender o nosso potencial e onde
+a nossa prática individual pode ser ajustada para tiramos o maior partido
+dos nossos recursos. 
 
-Estas sessões destinam-se a mensalmente reunir os praticantes durante um sábado de manhã à volta de um tema que inspire essa prática.
+Estas sessões destinam-se a mensalmente reunir um grupo de praticantes que
+durante um Sábado de manhã aceitem o desafio de treinar sobre um tema que
+inspire essa prática.
 
-As aulas permitem recolher material necessário prático e teórico para que entre encontros seja possível evoluir e desenvolver a prática individual. Simultaneamente reúnem o potencial da prática em grupo para compreender como o Chi Kung pode ser utilizado não só individualmente mas na relação com o outro e com o mundo que nos rodeia. 
+As aulas permitem recolher material necessário - prático e teórico, para
+que entre encontros seja possível evoluir e desenvolver a prática
+individual.
 
-<p align="center"><img src="/files/aula2.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
+Simultaneamente reúne o potencial da prática em grupo para compreender
+como o Chi Kung pode ser utilizado não só individualmente como terapia,
+mas na relação com os outros praticantes.
 
-Destinam-se a alunos, ex-alunos ou praticantes que queiram descobrir o Zhan Zhuang Chi Kung. 
+<p align="center"><img src="/files/aula2.jpg" style="border: 1px solid
+#ccc; padding: 4px; width: 60%"></p>
 
-**O valor de cada prática intensiva é de 15 Eur. que deve ser pago pessoalmente ou por transferência bancária para o nib 0045 5197 40259661184 38.**
-
-Confirme a sua presença  utilizando o [seguinte
-formulário.](http://form.jotformeu.com/form/32993248831362) 
-
-**Próximos encontros:**
+Estas manhãs destinam-se a alunos, ex-alunos, terapeutas ou praticantes
+que queiram descobrir o Zhan Zhuang Chi Kung pela primeira vez. 
 
 Das 10 às 13h na Escola Secundária António Arroio.  
 
-**18 de Janeiro de 2014** Tema: Prática Zero, para quem nunca praticou e quer conhecer o Zhan Zhuang Chi Kung.
+**Próximos encontros:**
 
-Outras datas em agenda 
-+ 15 de Fevereiro
-+ 15 de Março
-+ 17 de Maio
-+ 28 de Junho 
+**15 de Março de 2014**
+**Tema:** Alongar com o Zhan Zhuang Chi Kung. Com a chegada da Primavera
+torna-se importante acompanhar o movimento de germinação desta estação.
+Durante este Sábado vamos praticar as oito peças do brocado (Ba Duan Jin).
+Uma prática que coloca o praticante em sintonia com a Primavera. 
+
+Será também apresentado material teórico sobre como adaptar o treino
+a esta estação. Quer estejamos agora a começar, quer sejamos praticantes
+experientes de Chi Kung.
+
+**Esta prática tem o valor de 15 Eur. que devem ser pagos pessoalmente ou
+por transferência bancária para o nib 0045 5197 40259661184 38.**
+
+Confirme a sua presença utilizando o [seguinte
+formulário.](http://form.jotformeu.com/form/32993248831362)
+
+### Agenda dos próximos encontros
+
++ 10 de Maio 
++ 28 de Junho
+
