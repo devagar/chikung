@@ -67,9 +67,9 @@ Destina-se a apresentar o Zhan Zhuang Chi Kung. É uma manhã aberta a todos os 
 
 Praticantes de Chi Kung, Terapeutas, praticantes de outras artes de movimento que queiram conhecer ou aprofundar este tema fascinante e essencial.
 
-<p><img src="http://devagar.org/files/peter.jpg" class="profile" style="float: right; margin-right: 1em; width: 480px;"></p>
+<p><img src="http://devagar.org/files/peter2014.jpg" class="profile" style="float: right; margin-right: 1em; width: 480px;"></p>
 
-### : Peter Den Dekker 
+## : Peter Den Dekker 
 
 De nacionalidade holandesa ensina Zhan Zhuang Chi Kung e Da Cheng Chuan na Holanda, Austria, Portugal e Itália. Treinou inicialmente várias artes marciais e estilos de Chi Kung. Depois de ter conhecido o Mestre Lam Kam Chuen centrou a sua prática no estudo dos vários aspectos  do Zhan Zhuang Chi Kung. 
 
@@ -79,22 +79,30 @@ Além da prática do Chi Kung Peter Den Dekker foi director de várias escolas d
 
 É o Autor do livro “Dynamics of standing Still” e vive actualmente na Holanda. É na actualidade um professor bastante procurado para ensinar em várias academias e congressos europeus.
 
-Este é a 10ª vez que lecciona em Portugal. 
+Este é o 10º ano consecutivo que lecciona em Portugal. 
 
 ### : Inscrições
 
-O valor da Inscrição é de 50 Eur.  - Valor a deduzir no preço do seminário.
+O valor da Inscrição é de 50 Eur. (*)  - Valor a deduzir no preço do seminário.
+
+<p><img src="http://devagar.org/files/valores2014.jpg" class="profile" style="float: center; margin-right: 1em; width: 646px;"></p>
+
+**No dia 27 caso seja instrutor ou professor em alguma escola ao trazer dois ou mais alunos para participar ofereço-lhe o valor desta amanhã.**
 
 ### : Formas de Pagamento
 
 **Directamente** ou por **Transferência Bancária** seguido de envio envio de email com Nome e NIB e Opção de treino pretendida, no prazo de 5 dias úteis será confirmada a entrega do valor por email. Pagamentos por transferência bancária só até dia 15 de Abril. 
 
+**NIB:** 0045 5197 40259661184 38 - CCAM
+
 **Contactos:** Lourenço de Azevedo - <lourencoazevedo@gmail.com> - [http://www.devagar.org](http://www.devagar.org)
 
-**Em caso de desistência o valor da inscrição não será devolvido a não ser que um outro praticante seja encontrado em substituição**
+**(*) Em caso de desistência o valor da inscrição não será devolvido a não ser que um outro praticante seja encontrado em substituição**
 
->Este seminário é de natureza terapêutica e nao se encontra abrangido pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
+Esta é uma oportunidade única de prática integrando um grupo de praticantes com uma motivação de tornar a sua prática mais forte e integrada no seu dia a dia.
+
+O meu compromisso em todos os programas de estudo que crio e organizo é de criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
 ####: Incluiu tradução para Português e Certificado de Participação. 
 
-
+>Este seminário é de natureza terapêutica e nao se encontra abrangido pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
