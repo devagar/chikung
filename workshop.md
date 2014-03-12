@@ -67,8 +67,19 @@ Destina-se a apresentar o Zhan Zhuang Chi Kung. É uma manhã aberta a todos os 
 
 Praticantes de Chi Kung, Terapeutas, praticantes de outras artes de movimento que queiram conhecer ou aprofundar este tema fascinante e essencial.
 
-<p><img src="/files/foto.jpg" class="profile" style="float: right; margin-right: 1em; width: 250px;"></p>
+<p><img src="http://devagar.org/files/peter.jpg" class="profile" style="float: right; margin-right: 1em; width: 480px;"></p>
 
+### : Peter Den Dekker 
+
+De nacionalidade holandesa ensina Zhan Zhuang Chi Kung e Da Cheng Chuan na Holanda, Austria, Portugal e Itália. Treinou inicialmente várias artes marciais e estilos de Chi Kung. Depois de ter conhecido o Mestre Lam Kam Chuen centrou a sua prática no estudo dos vários aspectos  do Zhan Zhuang Chi Kung. 
+
+É um dos estudantes seniores do Mestre Lam Kam Chuen e utiliza o Chi Kung como forma de melhorar a estrutura corporal e fortalecimento da saúde. Este tipo de treino é também utilizado em alunos com deficiências do sistema imune. 
+
+Além da prática do Chi Kung Peter Den Dekker foi director de várias escolas de Shiatsu na Holanda e de Medicinas Complementares. 
+
+É o Autor do livro “Dynamics of standing Still” e vive actualmente na Holanda. É na actualidade um professor bastante procurado para ensinar em várias academias e congressos europeus.
+
+Este é a 10ª vez que lecciona em Portugal. 
 
 ### : Inscrições
 
