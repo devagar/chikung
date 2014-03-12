@@ -7,7 +7,7 @@ title: Workshop
 
 <center><h2>Movimento - Estabilidade - Força</h2></center>
 
-**"Um corpo que adoece é como um rio cujo o seu leito estagnou."** - *Provérbio Médico Chinês.*
+**"Um corpo que adoece é como um rio em que o seu leito estagnou."** - *Provérbio Médico Chinês.*
  
 No Zhan Zhuang Chi Kung procuramos desenvolver a unificação do movimento do corpo, mente e respiração. Durante esta busca podemos descobrir que já nascemos com esta capacidade e que por falta de exercício adequado gradualmente vai-se perdendo ao longo da vida. 
 
