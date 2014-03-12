@@ -87,7 +87,7 @@ O valor da Inscrição é de 50 Eur. - Valor a deduzir no preço do seminário.
 
 <p><img src="http://devagar.org/files/valores2014.jpg" class="profile" style="float: center; margin-right: 1em; width: 646px;"></p>
 
-**Caso seja instrutor ou professor em alguma escola no dia 27 ao trazer dois ou mais alunos para participar ofereço-lhe o valor desta amanhã de prática.**
+**Caso seja instrutor ou professor em alguma escola no dia 27 ao trazer dois ou mais alunos para participar consigo ofereço-lhe o valor desta amanhã de prática.**
 
 ### : Formas de Pagamento
 
@@ -98,6 +98,9 @@ O valor da Inscrição é de 50 Eur. - Valor a deduzir no preço do seminário.
 **Contactos:** Lourenço de Azevedo - <lourencoazevedo@gmail.com> - [http://www.devagar.org](http://www.devagar.org)
 
 **Em caso de desistência o valor da inscrição não será devolvido a não ser que um outro praticante seja encontrado em substituição**
+
+
+<p><img src="http://devagar.org/files/grupo2013.jpg" class="profile" style="float: center; margin-right: 1em; width: 720px;"></p>
 
 Esta é uma oportunidade única de prática integrando um grupo de praticantes com uma motivação de tornar a sua prática mais forte e integrada no seu dia a dia.
 
