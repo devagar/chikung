@@ -1,14 +1,18 @@
 ---
 layout: default 
-title: A arte do Cultivo da Quietude
+title: A Arte do Cultivo da Quietude
 ---
+![workshop2014](http://devagar.org/files/workshop2014.jpg)
+
+[Clique para aceder ao programa detalhado](http://devagar.org/2014/03/13/workshop.html)
+
 ###Primeira vez que visita este blog?
 
 [Comece aqui!](/inicio.html)
 
 ###Agenda
 
-Novos horários e mais aulas para para as práticas [regulares](regulares.html)
+Novos horários e mais aulas para as práticas [regulares](regulares.html)
 e [avançadas](avancadas.html)
 
 **Próxima sessões de Chi Kung ao Sábado**
@@ -26,11 +30,16 @@ utilizando a Filosofia Oriental e o Chi Kung.
 
 ###Onde vou a estar a ensinar
 
-**De 17 a 27 de Fevereiro** - Chi Kung e Teoria dos Meridianos - Curso
-Internacional de Macrobiótica - Nível 2.
-
 **12 de Abril** - As cinco Transformações - Instituto Macrobiótico - Nível
 1.
+
+**3 e 31 de Maio** - Chi Kung na Primavera e Verão - Quinta das Conchas.
+
+**10 de Maio** - Introdução ao Chi Kung - Módulo I - Braga.
+
+**17 de Maio** - Aparelho Reprodutor - Instituto Macrobiótico de Portugal - Nível 3.
+
+**7 Junho** - Introdução ao Chi Kung Módulo II - Braga.
 
 ### Quem?
 

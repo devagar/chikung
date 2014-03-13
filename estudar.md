@@ -41,6 +41,8 @@ depois de pelo menos um ano de estudo nas aulas regulares.
 Destas aulas fazem parte também eventos como cursos de fim de semana,
 cursos anuais ou retiros.
 
+<a id="coaching"> </a>
+
 [Testemunhos](http://devagar.org/testemunhos.html) de vários participantes dos
 programas Chi Kung Dojo.
 

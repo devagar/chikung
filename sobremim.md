@@ -47,7 +47,7 @@ Estes três conceitos podem ser divididos em outros que são integrantes do que 
 
 Estas várias abordagens permitem tornar a Arte do Cultivo da Quietude não num fim mas num caminho.
 
-Poderá descobrir o meu percurso e o que faço em mais detalhe descarregando [o meu curriculum detalhado](files/cv2013.pdf) Pode se ainda não o fez [subcrever](subscrever.html) este blog ou aceitar o desafio de realizar [uma aula](aulas.html) ou [uma sessão particular de Zhan Zhuang Chi Kung.](aulas.html#particulares)
+Poderá descobrir o meu percurso e o que faço em mais detalhe descarregando [o meu curriculum detalhado](files/cv2013.pdf) Pode se ainda não o fez [subcrever](subscrever.html) este blog ou aceitar o desafio de realizar [uma aula](aulas.html) ou [uma sessão particular de Zhan Zhuang Chi Kung.](estudar.html#coaching)
 
 <p align="center"><img src="/files/aula2.jpg" style="border: 1px solid #ccc; padding: 4px; width: 60%"></p>
 
