@@ -17,9 +17,7 @@ e [avançadas](avancadas.html)
 
 **Próxima sessões de Chi Kung ao Sábado**
 
-15 de Março - Alongamentos a partir do Zhan Zhuang Chi Kung- [Consulte programa
-detalhado e calendário das próximas datas](intensivas.html)
-
+Em Abril não vão ser realizadas sessões devido ao [seminário com Peter Den Dekker.](http://devagar.org/2014/03/13/workshop.html) Em breve datas para Maio. 
 ###Estudar Chi Kung?
 
 [Conheça aqui](estudar.html) as oportunidades de estudar Zhan Zhuang Chi Kung,
