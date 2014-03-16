@@ -76,7 +76,7 @@ com as áreas em que esta prática se tem mostrado efectiva:
 + Recuperação de traumas físicos ou emocionais
 
 O valor pela primeira sessão é de 75 Eur. que inclui a sessão de
-diagnóstico e avaliação e a primeira sessão de tratamento. Ambas têm
+diagnóstico e uma semana depois a primeira sessão de tratamento. Ambas têm
 a duração de uma hora cada. 
 
 Cada sessão adicional de uma hora tem o valor de 35 Euros.
@@ -95,7 +95,7 @@ O número de sessões e a sua regularidade varia e são acordadas na segunda
 consulta mediante a avaliação que é efectuada depois da primeira sessão.  
 
 **Devido à natureza deste programa e à atenção que é dada a cada um dos
-participantes aceito apenas um numero restrito de pacientes. Se estiver
+participantes aceito apenas um numero limitado de pacientes. Se estiver
 interessado utilize o [formulário de
 contato](http://devagar.org/contato.html).**
 
