@@ -50,3 +50,5 @@ O valor das aulas avulsas é de 15 Eur. e poderá experimentar uma aula sem qual
 <a id="particulares"> </a>
 - Das 18:45 às 20h - Aulas [regulares](/regulares.html)
 
+**[Outras oportuniades para estudar Chi Kung](estudar.html)**
+
