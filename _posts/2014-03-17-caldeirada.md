@@ -7,7 +7,9 @@ Podia ler-se às 8:00 na folha escrita à mão colada na porta do restaurante ao
 
 Se o primeiro passo for delinear o caminho o segundo passo é simples. 
 
-Mesmo que seja escrito em papel de toalha de mesa, com uma escrita quase hieroglífica, colado como fita cola amarelada enquanto a cidade ainda digere o pequeno almoço.  
+Mesmo que seja escrito em papel de toalha de mesa, com uma escrita quase hieroglífica e colado como fita cola amarelada.
+
+Mesmo enquanto a cidade ainda digere o pequeno almoço.  
 
 Já pensou no seu menu de treino hoje?
 
