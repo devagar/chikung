@@ -14,3 +14,5 @@ Mesmo enquanto a cidade ainda digere o pequeno almoço.
 Já pensou no seu menu de treino hoje?
 
 Escreva-o numa folha que tenha à mão, afixe-o onde o consiga ler e durante o dia cozinhe esse prato fabuloso. 
+
+Uma excelente de práticas.
