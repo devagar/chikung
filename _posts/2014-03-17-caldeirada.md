@@ -15,6 +15,4 @@ Já pensou no seu menu de treino hoje?
 
 Escreva-o numa folha que tenha à mão, afixe-o onde o consiga ler e durante o dia cozinhe esse prato fabuloso. 
 
-Quem sabe se um dia se torna um chef. 
-
 Uma excelente semana de práticas.
