@@ -3,7 +3,7 @@ title: Hoje, Segunda Feira 17 há Caldeirada de Cabrito
 layout: post
 ---
 
-Podia ler-se às 8:00 na folha escrita à mão colada na porta do restaurante ao perto de minha casa. 
+Podia ler-se às 8:00 na folha escrita à mão colada na porta do restaurante perto de minha casa. 
 
 Se o primeiro passo for delinear o caminho o segundo passo é simples. 
 
