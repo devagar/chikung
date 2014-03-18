@@ -28,16 +28,15 @@ utilizando a Filosofia Oriental e o Chi Kung.
 
 ###Onde vou a estar a ensinar
 
-**12 de Abril** - As cinco Transformações - Instituto Macrobiótico - Nível
-1.
+**Lisboa, 12 de Abril** - As cinco Transformações - Instituto Macrobiótico - Nível 1.
 
-**3 e 31 de Maio** - Chi Kung na Primavera e Verão - Quinta das Conchas.
+**Lisboa, 3 e 31 de Maio** - Chi Kung no Parque - Primavera e Verão
 
-**10 de Maio** - Introdução ao Chi Kung - Módulo I - Braga.
+**Braga, 10 de Maio** - Introdução ao Chi Kung - Módulo I.
 
-**17 de Maio** - Aparelho Reprodutor - Instituto Macrobiótico de Portugal - Nível 3.
+**Lisboa, 17 de Maio** - Aparelho Reprodutor - Instituto Macrobiótico de Portugal - Nível 3.
 
-**7 Junho** - Introdução ao Chi Kung Módulo II - Braga.
+**Braga, 7 Junho** - Introdução ao Chi Kung Módulo II.
 
 ### Quem?
 
@@ -46,7 +45,7 @@ utilizando a Filosofia Oriental e o Chi Kung.
 Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que possamos ensinar e sistemas que possamos representar o mais importante é ensinar a integrar a prática no dia a dia. Em cada momento e atividade somos o reflexo dessa prática. 
 
 Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática,
-terapia e ensino do Zhan Zhuang Chi Kung em aulas regulares em instituições de
+terapia e ensino do Zhan Zhuang Chi Kung em aulas regulares, em instituições de
 ensino, eventos corporativos e aulas particulares. 
 
 Escrevo com regularidade neste blog e sou o criador de [programas de
