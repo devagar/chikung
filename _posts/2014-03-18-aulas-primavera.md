@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inscrições para o novo curso de Aulas
+title: Inscrições para o novo curso trimestral de Chi Kung
 ---
 
 Cada três meses revejo tudo o que foi feito até agora e procuro que o novo programa de estudos possa além de inovar, conseguir servir os vários participantes e as características únicas de cada um. 
