@@ -22,7 +22,7 @@ solidificar a prática já adquirida.
 + Chi Kung Dojo 
 + Chi Kung Coaching
 + Chi Kung Corporate
-+ Foundation Teacheres
++ Foundation Teachers
 
 ###Chi Kung Dojo
 
