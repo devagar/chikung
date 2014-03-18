@@ -15,9 +15,9 @@ Todos os trimestres existe um tema de fundo que auxilia a integrar o Chi Kung na
 
 As aulas têm a duração de 75 minutos e existe a possibilidade de praticar uma a duas vezes por semana. 
 
-Ao frequentar as aulas regulares o praticante recebe o acesso a uma plataforma de estudo onde se encontra integrado numa comunidade de praticantes assim como lhe dá acesso a material para que possa individualmente desenvolver hábitos que permitam fortalecer a sua prática a sua prática pessoal.
-
 <a id="horarios"> </a>
+
+Ao frequentar as aulas o praticante recebe o acesso a uma plataforma de estudo onde se encontra integrado numa comunidade de praticantes assim como lhe dá acesso a material para que possa individualmente desenvolver hábitos que permitam fortalecer a sua prática a sua prática pessoal.
 
 [Clique para aceder ao próximo programa de aulas regulares. ](/regulares.html)
  
