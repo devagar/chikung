@@ -12,7 +12,7 @@ Aprender Chi Kung para criar hábitos de treino regulares e consistentes
 
 + [· Conhecer o tema para as próximas 12 semanas.](/regulares.html#tema)
 
-+ [· As Aulas.](/regulares.html/#aulas)
++ [· As Aulas.](/regulares.html#aulas)
 
 + [· Como participar.](/regulares.html#participar)
 
