@@ -21,7 +21,7 @@ Independentemente se temos um sistema digestivo de elefante ou de passarinho esc
 
 # 
 
-O novo bloco de aulas foi lançado ontem para as próximas doze semanas. Inicia-se dia 1 de Abril. À medida de todos os sistemas digestivos espero eu. 
+O novo bloco de aulas foi divulgado ontem para as próximas doze semanas. Inicia-se dia 1 de Abril. À medida de todos os sistemas digestivos espero eu. 
 
 [Toda a informação pode ser acedida aqui.](http://devagar.org/regulares.html) 
 
