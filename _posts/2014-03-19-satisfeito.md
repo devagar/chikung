@@ -19,10 +19,11 @@ Independentemente se temos um sistema digestivo de elefante ou de passarinho esc
 
 **Dica 2:** O mesmo se aplica ao treino regular. Muito nem sempre é mais.
 
-# 
+#…
 
 O novo bloco de aulas foi divulgado ontem para as próximas doze semanas. Inicia-se dia 1 de Abril. À medida de todos os sistemas digestivos espero eu. 
 
 [Toda a informação pode ser acedida aqui.](http://devagar.org/regulares.html) 
 
 **Condições especiais para inscrições até 28 de Março.** 
+ [^1]: 
