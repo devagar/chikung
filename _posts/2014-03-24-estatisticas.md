@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estatisticas
+title: As estatisticas
 ---
 
 Durante ambos os blocos de aulas regulares e avançadas 
