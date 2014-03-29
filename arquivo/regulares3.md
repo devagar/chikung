@@ -147,15 +147,19 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
 Uma vez por semana (12 Aulas):
 
-+ 110 Eur. pelo programa de 12 aulas pago na totalidade ou 40 Eur./Mês.
++ 100 Eur. pelo programa de 12 aulas quando feita a inscrição no valor de 30 Eur. até dia 28 de Março depois desta data o valor será de 110 Eur.
 
 Duas vezes por semana (24 Aulas):
 
-+ 160 Eur Pelo programa de 24 aulas ou 55 Eur./Mês.
++ 150 Eur. Pelo programa de 24 aulas quando feita a inscrição até dia 28 de Março depois desta data o valor será de 160 Eur.
   
+**Poderá ainda fazer o pagamento das 12 ou 24 aulas deste bloco mensalmente**
+
++ No valor de 40 Eur./Mês por uma aula semanal e 55 Eur./Mês por duas aulas semanais
+
 **Aulas Online:**
 
-+ 70 Eur. Este programa dá-lhe acesso aos resumos semanais das aulas + uma aula particular via Skype. 
++ 55 Eur. quando feito o pagamento total até 28 de Março. 75 depois desta data. Este programa dá-lhe acesso aos resumos semanais das aulas + uma aula particular via Skype. 
 
 ![valores2014b](http://devagar.org/files/valores2014b.jpg)
 
@@ -168,6 +172,14 @@ Estas cujo valor é de 30 Eur./Mês realizam-se Quintas-feiras entre as 11:30 e 
 Se desejarem frequentar as aulas em regime aberto(Avançadas + Regulares + Chi Kung sentado) por favor contactem-me.
 
 **O valor das aulas avulso** é de 15 Eur. por aula
+
+**Inscritos como alunos existem condições especiais para participar no [seminário com Peter Den Dekker](http://devagar.org/2014/03/13/workshop.html) em conjunto com as aulas semanais.** 
+
+Essas condições disponibilizam um valor específico para alunos assim como a possibilidade de efectuar o pagamento de aulas e seminário repartido pelos três meses que dura o curso.
+
+![valores2014w](http://regulares.devagar.org/files/valores2014w.jpg)
+
+**Estes valores só se aplicam para inscrições até 28 de Março - 50 Euros, a deduzir no valor total.**
 
 **Passo 2** - <a href="/form.html" target="_blank">Preencha os seguinte formulário 
 </a>
