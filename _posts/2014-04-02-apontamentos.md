@@ -31,7 +31,7 @@ Como professores reflectirmos se as aulas que leccionamos trazem de facto algum 
 
 Como alunos aprender a traduzir uma aula para o papel é o primeiro passo para que esta se materialize e a prática regular possa começar a ser uma realidade. Fica sempre a possibilidade de mostrar os vossos apontamentos e pedirem explicações a quem vos ensina.
 
-Da minha parte coloco o desafio de me enviarem fotos de uma página dos vossos apontamentos. Numa próxima oportunidade publicarei neste blog em jeito de exposição essas mesmas fotos.  
+Da minha parte coloco o desafio de me enviarem fotos de uma página dos vossos apontamentos. Numa próxima oportunidade publicarei neste blog essas mesmas fotos.  
 
 Excelentes práticas para todos. 
 
