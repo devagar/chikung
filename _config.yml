@@ -5,6 +5,7 @@ posts: 	     ./_posts
 layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
+markdown: kramdown
 name: Zhan Zhuang
 description: A Arte do Cultivo da Quietude
 url: http://chikung.in
