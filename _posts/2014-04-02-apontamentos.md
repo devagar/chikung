@@ -15,7 +15,7 @@ Os apontamentos ajudam a recordar o essencial para que a investigação possa co
 
 **Não utilizo vídeos para me recordar.** Durante seis anos estudei a forma 108 de Tai Chi Chuan Yang. Nunca me foi permitido fazer uma única foto ou filmagem. A minha memória adquiriu capacidades de memorização e de organização de treino que não julgava possível. Descobri que nas oportunidades em que filmava raramente revia o filme. Ficava a sensação de que tinha algo mas compreendi isso não significava que efectivamente essa informação me seria útil. 
 
-**Tenho descoberto que o melhor livro de apontamentos** para além do papel é o corpo. Mas tal como os apontamentos escritos revejo-os no corpo antes de deitar - às vezes até o sono chegar. 
+**Tenho descoberto que o melhor livro de apontamentos** para além do papel é o corpo. Mas tal como os apontamentos escritos revejo-os no corpo antes de me deitar - às vezes até o sono chegar e se tornar insuportável. 
 
 **Não se pode reter tudo.** E aprendo melhor quando não estou constantemente a pensar que o que estou a aprender pode ser utilizado desta ou daquela forma nas minhas aulas ou para escrever artigos no meu blog. 
 
@@ -27,9 +27,11 @@ Os apontamentos ajudam a recordar o essencial para que a investigação possa co
 
 De ambos os lados existe o desafio. 
 
-Como professores reflectirmos se as aulas que leccionamos trazem de facto algum sumo que os alunos possam levar para casa. ([Um exemplo dos apontamentos que forneço aos meus alunos](https://s3.amazonaws.com/partilhar/apontamentos.pdf))
+Como professores reflectirmos se as aulas que leccionamos trazem de facto algum sumo que os alunos possam levar para casa. ([Um exemplo dos apontamentos que facilito aos meus alunos](https://s3.amazonaws.com/partilhar/apontamentos.pdf)). Fica sempre o convite de elaboramos os apontamentos da nossas próprias aulas.
 
-Como alunos aprender a traduzir uma aula para o papel é o primeiro passo para que esta se materialize e a prática regular possa começar a ser uma realidade. 
+Como alunos aprender a traduzir uma aula para o papel é o primeiro passo para que esta se materialize e a prática regular possa começar a ser uma realidade. Fica sempre a possibilidade de mostrar os vossos apontamentos e pedirem explicações a quem vos ensina.
+
+Da minha parte coloco o desafio de me enviarem fotos de uma página dos vossos apontamentos. Numa próxima oportunidade publicarei neste blog em jeito de exposição essas mesmas fotos.  
 
 Excelentes práticas para todos. 
 
@@ -39,7 +41,7 @@ As aulas iniciaram esta semana e prolongam-se durante 12 semanas até dia 27 de 
 
 Estas aulas incluem apontamentos semanais que permitem aos alunos reflectir sobre o material ensinado. Cada duas semanas é elaborado um esquema de prática que aplica o material até aqui ensinado.
 
-Ainda existe vagas para este curso. 
+Ainda existem vagas para este curso. 
 
 [Toda a informação pode ser acedida aqui.](http://devagar.org/regulares.html) 
 
