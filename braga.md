@@ -8,9 +8,9 @@ title: Programa de estudos de Chi Kung em Braga
 
 <CENTER> <h5>Independentemente do seu nível de experiência</h5> </CENTER> 
 
-<p align="center"><img src="imagens/braga1.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
+<p align="center"><img src="htp://devagar.org/imagens/braga1.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
-<CENTER> <h2><b>30 Dias, dois seminários - 10 de Maio e 7 de Junho </b></h2> </CENTER>
+<CENTER> <h2><b>30 dias, dois seminários - 10 de Maio e 7 de Junho </b></h2> </CENTER>
 
 > No Centro da nossa existência encontramos as respostas; sabemos quem somos e o que queremos. *Lao Tzu*
 
@@ -47,7 +47,7 @@ No entanto, existem sete factores que dificultam o contacto com o Centro e com o
 6. Falta de espaço físico para parar e definir prioridades 
 7. Vida pessoal e familiar instável
 
-<p align="center"><img src="imagens/braga2.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
+<p align="center"><img src="htp://devagar.org/imagens/braga2.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
 ## Entrar em contacto com o Centro é aprender a potenciar os nossos recursos. 
 
@@ -99,9 +99,8 @@ Porque estar centrado é um tema importante e clássico na história humana, est
 
 + Conhecer o seu corpo de uma forma mais integrada. 
 
-<p align="center"><img src="imagens/braga3.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
+<p align="center"><img src="htp://devagar.org/imagens/braga3.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
 Inscrições e mais informações: Marta Ribeiro <marfagus@gmail.com>
-
 
 > *Licenciado pela Escola Superior de Medicina Tradicional Chinesa. Como Especialista de Medicina Tradicional Chinesa as aulas que são leccionas são exclusivamente terapêuticas e não se encontram abrangidas pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
