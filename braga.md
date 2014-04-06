@@ -2,7 +2,7 @@
 layout: default
 title: Programa de estudos de Chi Kung em Braga
 ---
-<CENTER> <h1>Seminário de Chi Kung </h1> </CENTER>
+<CENTER> <h1>Workshop de Chi Kung </h1> </CENTER>
 
 <CENTER> <h2><b>30 dias para Cultivar e Fortalecer o Centro </b></h2> </CENTER>
 
@@ -10,7 +10,7 @@ title: Programa de estudos de Chi Kung em Braga
 
 <p align="center"><img src="http://devagar.org/imagens/braga1.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
-<CENTER> <h2><b>30 dias, dois seminários - 10 de Maio e 7 de Junho </b></h2> </CENTER>
+<CENTER> <h2><b>30 dias, dois Workshops - 10 de Maio e 7 de Junho </b></h2> </CENTER>
 
 > No Centro da nossa existência encontramos as respostas; sabemos quem somos e o que queremos. *Lao Tzu*
 
@@ -75,13 +75,13 @@ Porque estar centrado é um tema importante e clássico na história humana, est
 
 ## Conheça o programa 
 
-**Seminário 1 - Aprenda a criar um contacto efectivo com a Terra e a desenvolver um Centro mais forte e flexível no seu dia a dia.** 
+**Workshop 1 - Aprenda a criar um contacto efectivo com a Terra e a desenvolver um Centro mais forte e flexível no seu dia a dia.** 
 
 + Serão apresentados exercícios introdutórios de Chi Kung para dar aos participantes um primeiro contacto com o potencial da sua Energia Vital.
 
-+ Entre os dois seminários (e caso opte por realizar estes dois cursos) receberá informação semanal que lhe permite desenvolver entre estes dois módulos d uma prática de Chi Kung regular e consistente onde quer que se encontre. 
++ Entre os dois Workshops (e caso opte por realizar estes dois cursos) receberá informação semanal que lhe permite desenvolver entre estes dois módulos uma prática de Chi Kung regular e consistente onde quer que se encontre. 
  
-**Seminário 2 - Aprenda a potenciar a sua energia Vital e a criar uma prática de Chi Kung autónoma. Serão apresentados exercícios complementares que fortalecem a prática diária consoante as necessidades individuais de cada praticante.** 
+**Workshop 2 - Aprenda a potenciar a sua energia Vital e a criar uma prática de Chi Kung autónoma. Serão apresentados exercícios complementares que fortalecem a prática diária consoante as necessidades individuais de cada praticante.** 
 
 ## Este programa permite: 
 
