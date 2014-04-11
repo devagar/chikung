@@ -101,6 +101,24 @@ Porque estar centrado é um tema importante e clássico na história humana, est
 
 <p align="center"><img src="http://devagar.org/imagens/braga3.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
+Pode inscrever-se num só workshop ou nos dois workshops e usufruir de 10% de desconto e do programa de 30 dias.
+
+
+**Horário:** 
+
++ Sábado das 10h às 18h
+
+**Local:** 
+
++ Museu Nogueira da Silva,Braga
+
+**Preços:**
+
++ Um workshop - 55 Eur.
++ Todo o programa (2 workshops + programa de 30 dias) - 100 Eur.
+
+*Qualquer modalidade de inscrição inclui Certificado de Participação e Documentação.*
+
 Inscrições e mais informações: Marta Ribeiro <marfagus@gmail.com>
 
 > *Licenciado pela Escola Superior de Medicina Tradicional Chinesa. Como Especialista de Medicina Tradicional Chinesa as aulas que são leccionas são exclusivamente terapêuticas e não se encontram abrangidas pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
