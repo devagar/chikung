@@ -81,7 +81,7 @@ Além da prática do Chi Kung Peter Den Dekker foi director de várias escolas d
 
 É o Autor do livro “Dynamics of standing Still” e vive actualmente na Holanda. É na actualidade um professor bastante procurado para ensinar em várias academias e congressos europeus.
 
-<a id="valores"> </a>
+<a id="valores"></a>
 
 Este é o 10º ano consecutivo que lecciona em Portugal. 
 
