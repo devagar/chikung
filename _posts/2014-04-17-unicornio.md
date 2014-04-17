@@ -9,7 +9,7 @@ A observação de unicórnios obedece a três ideias.
 2. É o unicórnio que nos encontra e não nós que o procuramos. Por outras palavras são eles que escolhem ser observados. Não depende directamente da vontade do observador. 
 3. Os unicórnios nem sempre se apresentam como classicamente os conhecemos - um cavalo com asas que possui um chifre em espiral na fronte. Para poderem estar sempre presentes no nosso ambiente sem serem notados desenvolveram técnicas de dissimulação bastante complexas, com o intuito de nos surpreender e poderem partilhar a sua sabedoria. 
 
-Nos nossos dias estas criaturas fantásticas manifestam-se quando o foco relaxa, quando o olhar deixa de estar compartimentado e a atenção está mais no usufruir da caminhada que na finalização da mesma. 
+Nos nossos dias estas criaturas fantásticas manifestam-se quando o foco relaxa, o olhar deixa de estar compartimentado e a atenção está mais no usufruir da caminhada que na finalização da mesma. 
 
 **Deixo três sugestões:**
 
