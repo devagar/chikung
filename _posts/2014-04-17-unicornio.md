@@ -13,11 +13,11 @@ Nos nossos dias estas criaturas fantásticas manifestam-se quando o foco relaxa,
 
 **Deixo três sugestões:**
 
-[Desfocar](http://devagar.org/2012/11/24/estupidez.html)
++ [Desfocar](http://devagar.org/2012/11/24/estupidez.html)
 
-[Simplificar](http://devagar.org/2012/06/28/o-que-nao-precisa.html) 
++ [Simplificar](http://devagar.org/2012/06/28/o-que-nao-precisa.html) 
 
-[Aprendizagem transversal](http://devagar.org/2012/11/23/aprendizagem-transversal.html)
++ [Aprendizagem transversal](http://devagar.org/2012/11/23/aprendizagem-transversal.html)
 
 Boas observações.
 
