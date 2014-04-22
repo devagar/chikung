@@ -3,7 +3,7 @@ title: Promover e realizar seminários de forma minimalista
 layout: post
 ---
 
-<p align="center"><img src="http://devagar.org/imagens/2014-04-22.jpg" style="border: 1px solid #ccc; padding: 0px; width: 70%"></p>
+<p align="center"><img src="http://devagar.org/imagens/2014-04-22.jpg" style="border: 1px solid #ccc; padding: 0px; width: 90%"></p>
 
 Todos os anos por esta altura realiza-se o seminário anual com o Peter Den Dekker.
 
