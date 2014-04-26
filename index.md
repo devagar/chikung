@@ -25,15 +25,13 @@ utilizando a Filosofia Oriental e o Chi Kung.
 
 ###Onde vou a estar a ensinar
 
-**Lisboa, 12 de Abril** - As cinco Transformações - Instituto Macrobiótico - Nível 1.
-
 **Lisboa, 3 e 31 de Maio** - Chi Kung no Parque - Primavera e Verão
 
-**Braga, 10 de Maio** - Introdução ao Chi Kung - Módulo I.
+**Braga, 10 de Maio** - [Introdução ao Chi Kung - Módulo I.](http://devagar.org/braga.html)
 
 **Lisboa, 17 de Maio** - Aparelho Reprodutor - Instituto Macrobiótico de Portugal - Nível 3.
 
-**Braga, 7 Junho** - Introdução ao Chi Kung Módulo II.
+**Braga, 7 Junho** - [Introdução ao Chi Kung Módulo II.](http://devagar.org/braga.html)
 
 ### Quem?
 
