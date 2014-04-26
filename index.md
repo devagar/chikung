@@ -2,10 +2,6 @@
 layout: default 
 title: A Arte do Cultivo da Quietude
 ---
-![workshop2014](http://devagar.org/files/workshop2014.jpg)
-
-[Clique para aceder ao programa detalhado](http://devagar.org/2014/03/13/workshop.html)
-
 ###Primeira vez que visita este blog?
 
 [Comece aqui!](/inicio.html)
