@@ -154,17 +154,3 @@ a influência dos mesmos no treino à medida que a prática se torna mais ou
 menos satisfatório. 
 
 Boas práticas e experimentações para todos. 
-
-# #
-
-Esta é a última semana para se inscrever no [Seminário de Chi Kung que vai
-decorrer em
-Braga](https://s3-eu-west-1.amazonaws.com/devagar/seminario-braga.pdf) dia
-1 e 2 de Março. 
-
-Este seminário está incluído no conceito de [Prática
-Zero](http://devagar.org/2014/02/04/pzero.html).
-
-[Utilize esta ligação](mailto:marfagus@gmail.com) para contactar a organização
-e obter mais informações.  
-

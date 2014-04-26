@@ -33,14 +33,5 @@ Como alunos aprender a traduzir uma aula para o papel é o primeiro passo para q
 
 Excelentes práticas para todos. 
 
-##…
-
-As aulas iniciaram esta semana e prolongam-se durante 12 semanas até dia 27 de Junho.
-
-Estas aulas incluem apontamentos semanais que permitem aos alunos reflectir sobre o material ensinado. Cada duas semanas é elaborado um esquema de prática que aplica o material até aqui ensinado.
-
-Ainda existem vagas para este curso. 
-
-[Toda a informação pode ser acedida aqui.](http://devagar.org/regulares.html) 
 
  

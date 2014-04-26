@@ -27,9 +27,4 @@ Emocionalmente é correcto manter a neutralidade mesmo sobre tensão. Isto porqu
 
 Além do mais estando em desarmonia com a ordem natural da Primavera haverá tendência para adoecer no Verão.”
 
-## …
-
-Este fim de semana vamos a prender a reprivatizar o [Sistema Circulatório e Muscular](http://devagar.org/2014/03/13/workshop.html). Tudo a postos para um fim de semana de prática de Zhan Zhuang Chi Kung. Inscrições de última hora são aceites até às 18h de hoje. 
-
-
 

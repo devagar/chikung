@@ -20,9 +20,3 @@ Nos nossos dias estas criaturas fantásticas manifestam-se quando o foco relaxa,
 + [Aprendizagem transversal](http://devagar.org/2012/11/23/aprendizagem-transversal.html)
 
 Boas observações.
-
-## …
-
-Ontem em conversa amena de fim de tarde com a Sílvia Romão ficou a ideia de proporcionar aos subscritores do Projecto Chegar a possibilidade de usufruírem até ao final desta semana das condições especiais de inscrição no Workshop com Peter Den Dekker. Estas condições são as mesmas que os subscritores da Arte do Cultivo da Quietude tiveram até dia 15 de Abril. 
-
-Se não conhecem o Projecto Chegar subscrevam e têm acesso a esta possibilidade - [Mas só hoje e amanhã.](http://chegar.org/seminario-com-peter-den-dekker/)

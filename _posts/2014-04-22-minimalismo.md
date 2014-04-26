@@ -83,9 +83,4 @@ A complexidade cria na maior parte das vezes a distracção do essencial.
 
 A pergunta que devem colocar neste processo de promover a vossa arte é se desejam enveredar pelo caminho mais fácil e de resultados duvidosos de como todos fazem, ou de escolher o caminho que embora não garanta resultados imediatos faz de vocês artistas únicos e de longe muito mais envolvidos no que se propõem a criar e a oferecer ao mundo.
 
-## …
-
-Ainda existem vagas para o seminário com Peter Den Dekker. As inscrições encerram na próxima Quinta-feira. As informações para quem ainda não as consultou podem ser [acedidas aqui ](http://devagar.org/2014/03/13/workshop.html)
-
-
 

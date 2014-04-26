@@ -36,10 +36,6 @@ Os cursos trimestrais que tenho desenvolvido ao longo dos últimos anos têm sem
 
 Treinar todos os dias não é treinar 60 minutos diários todos os dias sem falhar. É independentemente das situações que a vida nos proporciona ser capaz de as abraçar e integra-las na prática. Não como dificuldades ou impedimentos mas como o fermento que permite desenvolver a regularidade da prática do Chi Kung. 
 
-Hoje é o último dia que permite subscrever [este curso de 10 semanas](http://devagar.org/regulares.html) com condições especiais.
-
-Dia 7 é o dia!
-
 Um feliz 2014 repleto de criatividade necessária para o cultivo da vossa quietude. 
 
 Ao vosso sucesso!
