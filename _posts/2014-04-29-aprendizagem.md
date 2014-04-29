@@ -12,19 +12,19 @@ A filosofia oriental inclui uma série aspectos que podem ser relacionados com a
 
 Existem no entanto aspectos universais que não têm uma ligação directa a esta cultura mas que podem ser identificados como tal.
 
-Afinal o corpo humano europeu não é assim tão diferente de um corpo humano, oriental ou norte americano.
+Afinal o corpo humano europeu não é assim tão diferente de um corpo humano oriental ou norte americano.
 
-A mente na sua essência é também universal e existem temas que não tem fronteiras e que têm fascinado o Homem desde os seus primórdios: a Vida, a Morte, para onde vamos, de onde viemos.  
+A mente na sua essência é também universal e existem temas que não tem fronteiras e que têm fascinado o Homem desde os seus primórdios: a Vida, a Morte, para onde vamos, de onde viemos...  
 
-Convido-vos a reflectir nos conhecimentos que vos foram transmitidos pelos vossos pais, avós ou figuras chaves no vosso desenvolvimento. 
+Convido-vos a reflectir nos conhecimentos que vos foram transmitidos pelos vossos pais, avós ou figuras chave no vosso desenvolvimento. 
 
 Que hábitos tinham que poderiam ser transpostos facilmente para a filosofia oriental?
 
-Provérbios. 
-Hábitos de sono, alimentação ou comemorações sazonais.
-Relação com os antepassados. 
-Como lidavam com os desafios da vida.
-Credos para além de qualquer religião instituída. 
++ Provérbios. 
++ Hábitos de sono, alimentação ou comemorações sazonais.
++ Relação com os antepassados. 
++ Como lidavam com os desafios da vida.
++ Credos para além de qualquer religião instituída. 
 
 Vão de certo encontrar ai outros nomes para Chi Kung. 
 
