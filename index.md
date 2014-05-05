@@ -25,7 +25,7 @@ utilizando a Filosofia Oriental e o Chi Kung.
 
 ###Onde vou a estar a ensinar
 
-**Lisboa, 3 e 31 de Maio** - Chi Kung no Parque - Primavera e Verão
+**Lisboa, 24 de Maio e 21 Junho** - Chi Kung e Medição no Parque 
 
 **Braga, 10 de Maio** - [Introdução ao Chi Kung - Módulo I.](http://devagar.org/braga.html)
 
