@@ -28,8 +28,8 @@ A nossa proposta destina-se a dar aos participantes a capacidade de criar um ali
 
 **Valor por participante**
 
-+55 Eur. um dia.
-+95 Eur. Programa completo.
++ 55 Eur. um dia.
++ 95 Eur. Programa completo.
 
 Mais informações <lourenco.azevedo@devagar.org>
 
