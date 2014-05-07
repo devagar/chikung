@@ -5,8 +5,7 @@ layout: default
 
 ## Chi Kung e Meditação na Quinta das Conchas no Lumiar
 
-**Dias 24 de Maio e 21 de Junho**
-Das 10 às 17h
+**Dias 24 de Maio e 21 de Junho das 10 às 17h**
 
 Com Sílvia Romão e Lourenço de Azevedo
 
@@ -29,7 +28,7 @@ A nossa proposta destina-se a dar aos participantes a capacidade de criar um ali
 **Valor por participante**
 
 + 55 Eur. um dia.
-+ 95 Eur. Programa completo.
++ 95 Eur. programa completo.
 
 Mais informações <lourenco.azevedo@devagar.org>
 
