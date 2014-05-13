@@ -10,7 +10,7 @@ title: Programa de estudos de Chi Kung em Braga
 
 <p align="center"><img src="http://devagar.org/imagens/braga1.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
-<CENTER> <h2><b>Criar Vitalidade - 31 de Maio </b></h2> </CENTER>
+<CENTER> <h2><b>30 dias, dois Workshops - 10 de Maio e 7 de Junho </b></h2> </CENTER>
 
 > No Centro da nossa existência encontramos as respostas; sabemos quem somos e o que queremos. *Lao Tzu*
 
@@ -74,8 +74,14 @@ Porque estar centrado é um tema importante e clássico na história humana, est
 **Está especialmente direccionado** para todos os interessados em aceitar o desafio de desenvolver autonomia em melhorar a sua vitalidade e o seu bem estar.
 
 ## Conheça o programa 
+
+**Workshop 1 - Aprenda a criar um contacto efectivo com a Terra e a desenvolver um Centro mais forte e flexível no seu dia a dia.** 
+
++ Serão apresentados exercícios introdutórios de Chi Kung para dar aos participantes um primeiro contacto com o potencial da sua Energia Vital.
+
++ Entre os dois Workshops (e caso opte por realizar estes dois cursos) receberá informação semanal que lhe permite desenvolver entre estes dois módulos uma prática de Chi Kung regular e consistente onde quer que se encontre. 
  
-**Aprenda a potenciar a sua energia Vital e a criar uma prática de Chi Kung autónoma. Serão apresentados exercícios que fortalecem a prática diária consoante as necessidades individuais de cada praticante. Aos participantes que não efectuaram o primeiro seminário será entregeu material de estudo para permitir contimuar o estudo e prática de Chi Kung mesmo depois do seminário finalizado** 
+**Workshop 2 - Aprenda a potenciar a sua energia Vital e a criar uma prática de Chi Kung autónoma. Serão apresentados exercícios complementares que fortalecem a prática diária consoante as necessidades individuais de cada praticante.** 
 
 ## Este programa permite: 
 
@@ -108,9 +114,10 @@ Pode inscrever-se num só workshop ou nos dois workshops e usufruir de 10% de de
 
 **Preços:**
 
-+ 55 Eur + programa de 30 dias
++ Um workshop - 55 Eur.
++ Todo o programa (2 workshops + programa de 30 dias) - 100 Eur.
 
-*Inclui Certificado de Participação e Documentação.*
+*Qualquer modalidade de inscrição inclui Certificado de Participação e Documentação.*
 
 Inscrições e mais informações: Marta Ribeiro <marfagus@gmail.com>
 
