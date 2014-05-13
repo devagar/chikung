@@ -93,9 +93,6 @@ Porque estar centrado é um tema importante e clássico na história humana, est
 
 <p align="center"><img src="http://devagar.org/imagens/braga3.jpg" style="border: 1px solid #ccc; padding: 0px; width: 80%"></p>
 
-Pode inscrever-se num só workshop ou nos dois workshops e usufruir de 10% de desconto e do programa de 30 dias.
-
-
 **Horário:** 
 
 + Sábado das 10h às 18h
