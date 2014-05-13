@@ -12,7 +12,7 @@ title: Programa de estudos de Chi Kung em Braga
 
 <CENTER> <h2><b>Criar Vitalidade - 31 de Maio </b></h2> </CENTER>
 
-> No Centro da nossa existência encontramos as respostas; sabemos quem somos e o que queremos. *Lao Tzu*
+> No Centro da nossa existência encontramos as respostas; sabemos quem somos e o que queremos. **Lao Tzu*
 
 **O Cultivo do Centro foi desenvolvido inicialmente por estratos sociais de elite - Monges, Terapeutas e Guerreiros.**
 
