@@ -53,13 +53,11 @@ No entanto, existem sete factores que dificultam o contacto com o Centro e com o
 
 **A nossa proposta:**
 
-30 dias para Cultivar e Fortalecer o Centro foi concebido para criar experiência no praticante e não apenas noções teóricas sobre o Centro, independentemente do seu nível de experiência.
+Este seminário foi concebido para criar experiência no praticante e não apenas noções teóricas sobre a sua Energia Vital, independentemente do seu nível de experiência.
 
-+ Consiste em 30 semanas de treino intensivo.
++ Consiste num 1 Workshop presencial de 6 horas.
 
-+ 2 Workshops presenciais no total de 12 horas.
-
-+ Videos e material teórico com exercícios que permitem desenvolver um trabalho diário sobre este tema** - Mesmo depois de finalizados os 30 dias. 
++ Vídeos e material teórico com exercícios que permitem desenvolver um trabalho diário sobre este tema - Mesmo depois de finalizado o Workshop. 
 
 + Possibilidade de estudar ao seu próprio ritmo 
 
