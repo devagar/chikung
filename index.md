@@ -19,11 +19,11 @@ uma prática já existente.
 
 ###Onde vou a estar a ensinar
 
-**Lisboa, 24 de Maio e 21 Junho** - [Chi Kung e Medição no Parque](http://devagar.org/parque) - Lisboa - em Conjunto com Sílvia Romão.  
+**Lisboa, 24 de Maio e 21 Junho** - [Chi Kung e Medição no Parque](http://devagar.org/parque) - Lisboa - em Conjunto com Sílvia Romão. 
+
+**Braga, 31 Maio** - [Introdução ao Chi Kung Módulo II.](http://devagar.org/braga.html) 
 
 **Lisboa, 17 de Maio** - Aparelho Reprodutor - Instituto Macrobiótico de Portugal - Nível 3.
-
-**Braga, 31 Maio** - [Introdução ao Chi Kung Módulo II.](http://devagar.org/braga.html)
 
 ###Agenda
 
