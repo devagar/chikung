@@ -165,11 +165,14 @@ processo mental em algo que pode ser replicado em benefício dos outros.
 
 Este curso destina-se a formar professores de Zhan Zhuang Chi Kung.
 
+Tem a duração de dois anos e é realizado em regime de fins de semana num
+total de cerca de quase 300 horas
+
 Este curso realiza-se cada dois anos para que exista atenção devida
 dedicada ao grupo de participantes. 
 
 Este não é um curso introdutório ao Chi Kung. Destina-se a quem já pratica
-este ou outros estilos e se quer especializar nesta prática. **Destina-se exclusivamente a quem estuda comigo pelo menos à mais de dois anos num regime regular**
+este ou outros estilos e se quer especializar nesta prática. 
 
 O próximo curso inicia-se em Outubro de 2014 para informações sobre
 o programa por favor utilize o [formulário de
