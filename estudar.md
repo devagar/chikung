@@ -76,7 +76,7 @@ com as áreas em que esta prática se tem mostrado efectiva:
 + Recuperação de traumas físicos ou emocionais
 
 O valor pela primeira sessão é de 75 Eur. que inclui a sessão de
-diagnóstico e uma semana depois a primeira sessão de tratamento. Ambas têm
+diagnóstico e uma semana depois a primeira sessão de prática. Ambas têm
 a duração de uma hora cada. 
 
 Cada sessão adicional de uma hora tem o valor de 35 Euros.
