@@ -5,7 +5,7 @@ title: Testemunhos
 
 ## Testemunhos
 
-Desde que iniciei as minhas aulas tenho tido a felicidade de contactar com alunos com as mais variadas ocupações, interesses e expectativas que aceitaram incluir esta prática nas suas vidas. 
+Desde que iniciei as minhas aulas tenho tido a felicidade de ensinar alunos com as mais variadas ocupações, interesses e expectativas que aceitaram incluir esta prática nas suas vidas. 
 
 Construi esta página para que pudessem ter lugar as suas reflexões que são de forma muito pessoal a sua vivência e contacto com a Arte do Cultivo da Energia Vital. 
 
