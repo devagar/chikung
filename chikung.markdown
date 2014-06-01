@@ -79,6 +79,7 @@ Mais tarde o Mestre Lam Kam Chuen discípulo directo do Prof. Yu continuou a sal
 <br>
 <br>
 <p><img src="/files/peterdekker2.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
+
 ### Peter Den Dekker
 
 Peter Den Dekker foi o professor que em 2004 me apresentou esta linhagem e com quem tenho estudado desde então. De origem holandesa tem-se dedicado a fazer chegar esta prática a todos os aspectos da vida humana, tornando-a acessível a todos os praticantes independentemente da sua condição física, actividade que desempenham ou conhecimentos prévios da filosofia oriental. Deve-se à sua dedicação a propagação e interesse que esta arte tem despertado para além das fronteiras do Reino Unido. 
