@@ -21,8 +21,6 @@ uma prática já existente.
 
 **14 e 15 de Junho** - Residencial de Macrobiótica
 
-**21 Junho** - [Chi Kung e Medição no Parque](http://devagar.org/parque) - Lisboa - em Conjunto com Sílvia Romão. 
-
 ###Agenda
 
 Novos horários e [mais aulas](http://devagar.org/aulas.html)
