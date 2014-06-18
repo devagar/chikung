@@ -8,12 +8,10 @@ Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que pos
 
 Conheci o Chi Kung em 1997 e dedico o meu tempo exclusivamente à prática,
 terapia e ensino do Zhan Zhuang Chi Kung em aulas regulares, em instituições de
-ensino, empresas e aulas particulares. 
+ensino, empresas e aulas particulares. Procuro levar a integração desta arte para o dia a dia de cada praticante ao seu ritmo individual.
 
 Escrevo com regularidade neste blog e sou o criador de [programas de
-estudo](estudar.html) que se destinam a utlizar o Chi Kung como terapia
-e a levar a sua integração para o dia a dia de cada praticante ou a fortalecer
-uma prática já existente. 
+estudo](estudar.html) que se destinam a utlizar o Chi Kung como instrumento de navegação nos desafios diários que cada praticante encontra. 
 
 [Pode saber mais sobre o que faço e ensino aqui.](sobremim.html) 
 
