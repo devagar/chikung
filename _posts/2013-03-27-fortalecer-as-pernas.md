@@ -3,7 +3,7 @@ title: Fortalecer as Pernas
 author: admin
 layout: post
 ---
-*“O corpo envelhece, mas as pernas envelhecem primeiro.” &#8211; *Provérbio Chinês
+>“O corpo envelhece, mas as pernas envelhecem primeiro.” *Provérbio Chinês*
 
 As pernas são sem dúvida um bem precioso – ligam o corpo à terra, permitem que nos desloquemos e que nos mantenhamos na posição vertical. No passado as pernas tinham uma importância maior. As pessoas deslocavam-se maioritariamente a pé, hoje em dia em média um ser humano caminha cerca de 1000 a 3000 passos.1000 passos serão cerca de 1,5 km.
 
