@@ -15,13 +15,9 @@ estudo](estudar.html) que se destinam a utlizar o Chi Kung como instrumento de n
 
 [Pode saber mais sobre o que faço e ensino aqui.](sobremim.html) 
 
-###Onde vou a estar a ensinar
-
-**14 e 15 de Junho** - Residencial de Macrobiótica
-
 ###Agenda
 
-Novos horários e [mais aulas](http://devagar.org/aulas.html)
+Neste momento não existem aulas. Reiniciam com uma aula aberta dia 26 de Setembro das 12:30 às 13:30 e das 18:45 às 19:45.
 
 ###Estudar Chi Kung?
 
