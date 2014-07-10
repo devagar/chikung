@@ -27,10 +27,6 @@ em aulas de grupo, terapia individual ou formação de professores.
 Conheça também [os programas específicos](estudar.html#empresas) para empresas
 utilizando a Filosofia Oriental e o Chi Kung. 
 
-###Primeira vez que visita este blog?
-
-[Comece aqui!](/inicio.html)
-
 ###Ultimos artigos publicados
 
 <div class="hfeed">
