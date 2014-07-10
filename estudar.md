@@ -79,7 +79,7 @@ O valor pela primeira sessão é de 75 Eur. que inclui a sessão de
 diagnóstico e uma semana depois a primeira sessão de prática. Ambas têm
 a duração de uma hora cada. 
 
-Cada sessão adicional de uma hora tem o valor de 35 Euros.
+Cada sessão adicional de uma hora tem o valor de 35 Eur. ou uma Mensalidade de 100 Eur./mês com uma aula semanal de 60 minutos. 
 
 Desloco-me se necessário à residência dos praticantes estando neste caso
 o valor das aulas sujeito a alteração.
