@@ -2,7 +2,6 @@
 layout: post
 title: O teste do tempo
 --- 
-
 Qualquer sistema de Chi Kung que seja possível estudar hoje tem o mérito de ter sobrevivido ao desafio de acompanhar e beneficiar centenas de gerações e de chegar até aos nossos dia para que também nós possamos usufruir dele. 
 
 Este fenómeno de sobrevivência deve-se não porque é muito ou pouco esotérico ou por que seja visualmente estético, não por pertencer a uma linhagem conceituada ou porque é praticado apenas por um extracto restrito da população.
