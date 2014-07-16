@@ -27,7 +27,7 @@ regularidade do treino resultaram nos recursos que este blog disponibiliza.
 * **[Programas de estudo](estudar.html)** para que seja possível praticar Zhan
 Zhuang Chi Kung mediante as necessidades individuais de cada praticante. 
 
-* **[Artigos escritos e publicados semanalmente](/artigos.html)** ajudam
+* **[Artigos escritos e publicados semanalmente](/blog.html)** ajudam
 a refletir sobre a prática e estratégias de a tornar mais eficaz e integrada no
 dia a dia. Para os receber na comodidade do seu email subscreva aqui.  
 

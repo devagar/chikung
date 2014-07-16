@@ -1,5 +1,5 @@
 source:      .
-destination: ./_site
+destination: ~/blogs/chikung
 plugins:     ./_plugins
 posts: 	     ./_posts
 layouts:     ./_layouts
