@@ -1,5 +1,5 @@
 source:      .
-destination: ~/blogs/chikung
+destination: ./_site
 plugins:     ./_plugins
 posts: 	     ./_posts
 layouts:     ./_layouts
@@ -8,7 +8,7 @@ exclude:     []
 markdown: kramdown
 name: Zhan Zhuang
 description: A Arte do Cultivo da Quietude
-url: http://chikung.in
+url: http://devagar.org
 safe: true
 lsi: false
 pygments: true

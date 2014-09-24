@@ -16,7 +16,7 @@ Se querem compreender o Espírito de quem criou as obras de arte que praticamos 
 Imaginem-se à 2000 anos atrás e avaliem a vossa alimentação a três níveis.
 
 *   **A Quantidade em relação às vossas necessidades,**
-*   **A Qualidade nutritiva, **
+*   **A Qualidade nutritiva,**
 *   **e se está de acordo com a época do ano.**
 
 Verifiquem se seria muito semelhante.

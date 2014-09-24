@@ -11,7 +11,7 @@ Refinou técnicas que utilizavam muito pouco material para poderem ser executado
 
 **Sabe-se hoje que <a href="http://www.vivocoaching.com/2012/07/19/leadership-lessons-nelson-mandela/" target="_blank">Nelson Mandela</a>** quando se encontrava encarcerado fazia uma corrida de 45 minutos todos os dias na sua cela no mesmo sítio, seguida de 200 abdominais e 100 flexões com as pontas dos dedos para manter a forma física.
 
-**<a href="http://en.wikipedia.org/wiki/Guo_Yunshen" target="_blank">Guo Yunshen</a> o mestre de <a href="http://en.wikipedia.org/wiki/Wang_Xiangzhai" target="_blank">Wang Xiang Zhai</a> ** que sistematizou a prática da Postura da Árvore como hoje é estudado pela linhagem que represento foi detido durante três anos.
+**<a href="http://en.wikipedia.org/wiki/Guo_Yunshen" target="_blank">Guo Yunshen</a> o mestre de <a href="http://en.wikipedia.org/wiki/Wang_Xiangzhai" target="_blank">Wang Xiang Zhai</a>** que sistematizou a prática da Postura da Árvore como hoje é estudado pela linhagem que represento foi detido durante três anos.
 
 A sua detenção incluía ter duas bolas de ferro presas às pernas que o impediam de caminhar ou de se movimentar de forma livre.
 
